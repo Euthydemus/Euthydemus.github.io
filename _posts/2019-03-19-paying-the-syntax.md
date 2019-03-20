@@ -25,12 +25,16 @@ complex_array:
 {% if page.some_boolean %}
 <ul>
     {% for val in page.some_array %}
-    <li>{{ val }}</li>
+    <li>{{ val }} -- index counts up, rindex counts down: {{ forloop.index }}, {{ forloop.rindex }}</li>
     {% endfor %}
 </ul>
 {% else %}
 <p>We could have used elsif, but it's just a boolean.</p>
 {% endif %}
+
+<p>"break" can pop loops, obvs.</p>
+<p>Less obviously: a for loop can have an else clause to handle null/empty collections.</p>
+<p>but this is a trip: "for x in site.y <em>reversed limit: 3 offset: 3</em>" -- that's a 2nd page of 3, starting from the bottom.</p>
 
 <ul>
 {% for objs in page.complex_array %}
