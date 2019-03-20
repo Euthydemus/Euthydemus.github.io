@@ -10,6 +10,7 @@ some_array:
  - item1
  - item2
  - item3
+ - item4
 complex_array:
   - name: "foo"
     value: "Four score"
@@ -24,8 +25,9 @@ complex_array:
 <p>Let's have a conditional that evaluates to true and loop through an array:</p>
 {% if page.some_boolean %}
 <ul>
+    <li>We don't care right now, but for loops have a .length property.</li>
     {% for val in page.some_array %}
-    <li>{{ val }} -- index counts up, rindex counts down: {{ forloop.index }}, {{ forloop.rindex }}</li>
+    <li>{{ val }} -- index counts up, rindex counts down: {{ forloop.index }}, {{ forloop.rindex }} -- but cycle flows through a different set: {% cycle "a", "z" %} </li>
     {% endfor %}
 </ul>
 {% else %}
