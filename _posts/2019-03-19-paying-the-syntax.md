@@ -33,7 +33,9 @@ complex_array:
 
 <ul>
 {% for objs in page.complex_array %}
-<li>{{ objs.name }}: {{ obs.value}}</li>
+<li>{{ objs.name }}: {{ objs.value}}</li>
 {% endfor %}
-</uL>
+</ul>
+<p>Note: a null ref didn't break anything; there was a typo above using "obs" instead of "objs"</p>
 <p>This is liquid, calling on YAML: {{ page.this_is_yaml }}</p>
+<p>Variables set on the layout are also available: {{ layout.big_var }}</p>
