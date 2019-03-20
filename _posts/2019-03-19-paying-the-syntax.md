@@ -12,7 +12,7 @@ some_array:
 
 <p>This page exists soley to start recording syntax, because it's weird. At least compared to everything else I know.</p>
 
-<p>I'm also testing partial HTML beyond mere Markdown.</p>
+<p>I'm also testing partial HTML beyond mere Markdown.\</p>
 
 <p>Let's have a conditional that evaluates to true and loop through an array:</p>
 {% if page.some_boolean %}
