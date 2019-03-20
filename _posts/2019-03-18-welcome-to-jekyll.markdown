@@ -1,12 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "What am I even doing?"
 date:   2019-03-18 23:00:06 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+So this is me now. I was using WordPress but I'm not willing to go down the path they're going down
+and I want to try something different so here we are with a GitHub account to write pages in the
+Ruby-based Jekyll. I don't know if it will actually last; the thing that I really wanted here was
+broken from the git-go (that's a pun, not a command) and there was some swearing at GitHub before I
+discovered that adding + to "git push origin +HEAD:master" will force GitHub to accept a violent
+revert.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm not looking forward to how brittle, depedency-riddled, and high-maintenance this is going to be, 
+especially since it's underpowered with the intention of DIY-ification. I thought I was into that, 
+and then I tried integrating some code from 3 years ago.
+
+But I am liking the notion of JSON objects that I can just mesh into my posts (Cards! I will use it
+for Cards!) and working more directly with the internals of the beast instead of having the CMS
+overriding me with its second-guesses at every turn.
+
+Pay no attention to this next bit.
 
 Jekyll also offers powerful support for code snippets:
 
