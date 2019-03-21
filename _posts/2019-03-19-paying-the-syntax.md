@@ -69,3 +69,6 @@ complex_array:
 <li>truncatewords: {{ page.string_to_abuse | truncatewords: 3 }}</li>
 <li>split and jsonify: {{ page.string_to_abuse | split: " " | jsonify }}</li>
 </ul>
+
+<p>Most of this won't be useful when going for a blog, but the data blocks (cards! Cards! <em>Caaarrrdddsss!</em>)
+are very exciting to me.</p>
