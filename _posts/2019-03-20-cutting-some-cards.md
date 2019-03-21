@@ -8,7 +8,7 @@ categories: jekyll update
 This is a simple post to test the pulling of cards from a data file into a page.
 We'll just start with some simple axioms. This will get gussied up later.
 
-{% for law in site.data.axioms %}
+{% for law in site.data.cards.axioms %}
 <blockquote>
 {{ law.text }}
 <br>
