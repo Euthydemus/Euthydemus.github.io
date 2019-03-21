@@ -8,10 +8,11 @@ categories: jekyll update
 This is a simple post to test the pulling of cards from a data file into a page.
 We'll just start with some simple axioms. This will get gussied up later.
 
-{% for law in site.data.cards.axioms %}
+{% for law_hash in site.data.cards.axioms %}
+{% assign law = law_hash[1] %}
 <blockquote>
-{{ site.data.cards.axioms[law].text }}
+{{ law.text }}
 <br>
-(<a href="{{ site.data.cards.axioms[law].xref }}">{{ site.data.cards.axioms[law].xref }}</a>)
+(<a href="{{ law.xref }}">{{ law.xref }}</a>)
 </blockquote>
 {% endfor %}
