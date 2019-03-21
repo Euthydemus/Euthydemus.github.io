@@ -1,23 +1,20 @@
 {
-    "axioms": [
-        {
-            "key": "postel",
+    "axioms": {
+        "postel": {
             "text": "Be conservative in what you do, be liberal in what you accept from others.",
             "xref": "https://en.wikipedia.org/wiki/Robustness_principle"
         },
-        {
-            "key": "goodhart",
+        "goodhart": {
             "text": "When a measure becomes a target, it ceases to be a good measure.",
             "xref": "https://en.wikipedia.org/wiki/Goodhart%27s_law"
         },
-        {
-            "key": "peter",
+        "peter": {
             "text": "In a hierarchy every employee tends to rise to his level of incompetence.",
             "xref": "https://en.wikipedia.org/wiki/Peter_principle"
         },
-        {
-            "key": "pournelle",
+        "pournelle": {
             "text": "In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals the bureaucracy is supposed to accomplish have less and less influence, and sometimes are eliminated entirely.",
             "xref": "https://en.wikipedia.org/wiki/Jerry_Pournelle#Iron_Law_of_Bureaucracy"
-        }]
+        }
+    }
 }

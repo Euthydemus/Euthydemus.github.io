@@ -10,8 +10,8 @@ We'll just start with some simple axioms. This will get gussied up later.
 
 {% for law in site.data.cards.axioms %}
 <blockquote>
-{{ law.text }}
+{{ site.data.cards.axioms[law].text }}
 <br>
-(<a href="{{ law.xref }}">{{ law.xref }}</a>)
+(<a href="{{ site.data.cards.axioms[law].xref }}">{{ site.data.cards.axioms[law].xref }}</a>)
 </blockquote>
 {% endfor %}
