@@ -1,5 +1,5 @@
 {
-    "axioms": {
+    "axioms": [{
         "postel": {
             "text": "Be conservative in what you do, be liberal in what you accept from others.",
             "xref": "https://en.wikipedia.org/wiki/Robustness_principle"
@@ -16,5 +16,5 @@
             "text": "In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals the bureaucracy is supposed to accomplish have less and less influence, and sometimes are eliminated entirely.",
             "xref": "https://en.wikipedia.org/wiki/Jerry_Pournelle#Iron_Law_of_Bureaucracy"
         }
-    }
+    }]
 }
