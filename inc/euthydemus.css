@@ -1,8 +1,9 @@
-header {
+.site-header {
     background-color: #333;
     color: #ccc;
     text-transform: uppercase;
     font-size: smaller;
     font-style: italic;
     text-align: center;
+    padding: .8em;
 }
