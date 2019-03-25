@@ -17,6 +17,13 @@ big_var: "this is accessed via layout.big_var"
     {{ content }}
   </article>
   <footer>
+        <form action="/search.html" method="get">
+            <label for="search-box">Search</label>
+            <input type="text" id="search-box" name="query">
+            <input type="submit" value="search">
+          </form>
   </footer>
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script src="/inc/search.js"></script>
 </body>
 </html>
