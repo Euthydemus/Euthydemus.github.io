@@ -16,5 +16,26 @@
             "text": "In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals the bureaucracy is supposed to accomplish have less and less influence, and sometimes are eliminated entirely.",
             "xref": "https://en.wikipedia.org/wiki/Jerry_Pournelle#Iron_Law_of_Bureaucracy"
         }
+    },
+    "foucault": {
+        "sexuality2": {
+            "fullcite": "Foucault, M. (1984). The history of sexuality, volume 2: The use of pleasure. Knopf Doubleday Publishing Group",
+            "cards": [
+                { "text": "Sure of having traveled far, one finds that one is looking down on oneself from above.", "cite": "Foucault, 1984, ch. 1" },
+                { "text": "By “morality,” one means a set of values and rules of action that are recommended to individuals through the intermediary of various prescriptive agencies such as the family (in one of its roles), educational institutions, churches, and so forth.", "cite": "Foucault, 1984, ch. 3" }
+            ]
+        },
+        "willtoknow": {
+            "fullcite": "Foucault, M. (2011). Lectures on the will to Know: Lectures at the Collège de France, 1970-1971. Palgrave Macmillan UK",
+            "cards": [
+                { "text": "[W]e will have to change in order to learn, or the fact of learning will change the one who learns. In short, the subject of knowledge will not be the same as the subject of desire. Euthydemus: to teach is to kill...", "cite": "Foucault, 2011, p. 14-15" }
+            ]
+        },
+        "discipline": {
+            "fullcite": "Foucault, M. (1975). Discipline and punish: The birth of the prison. Knopf Doubleday Publishing Group",
+            "cards": [
+                { "text": "Historians of ideas usually attribute the dream of a perfect society to the philosophers and jurists of the eighteenth century; but there was also a military dream of society; its fundamental reference was not to the state of nature, but to the meticulously subordinated cogs of a machine, not to the primal social contract, but to permanent coercions, not to fundamental rights, but to indefinitely progressive forms of training, not to the general will but to automatic docility.", "cite": "Foucault, 1975, p. 169" }
+            ]
+        }
     }
 }

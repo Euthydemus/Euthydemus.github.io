@@ -1,13 +1,8 @@
 ---
 layout: default
-title: "Search Results"
----
-<form action="/search.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
 
+---
+<h1>Search Results</h1>
 <ul id="search-results"></ul>
 
 <script>
