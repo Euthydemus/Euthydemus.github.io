@@ -3,6 +3,7 @@ layout: post
 title:  "Let's Cut Cards"
 date:   2019-03-20 18:30:06 -0700
 categories: jekyll update
+description: "Time to get up to the starting line."
 ---
 
 This is a simple post to test the pulling of cards from a data file into a page.

@@ -3,6 +3,7 @@ layout: post
 title:  "What am I even doing?"
 date:   2019-03-18 23:00:06 -0700
 categories: jekyll update
+description: "First post!"
 ---
 So this is me now. I was using WordPress but I'm not willing to go down the path they're going down
 and I want to try something different so here we are with a GitHub account to write pages in the

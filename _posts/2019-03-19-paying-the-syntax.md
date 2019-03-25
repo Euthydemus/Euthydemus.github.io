@@ -3,6 +3,7 @@ layout: post
 title:  "Paying the Syntax"
 date:   2019-03-19 23:00:06 -0700
 categories: jekyll update
+description: "Learning the language options."
 this_is_yaml: "I yam what I yam."
 some_boolean: true
 string_to_abuse: "The Quick Brown Fox"
