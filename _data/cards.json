@@ -37,5 +37,22 @@
                 { "text": "Historians of ideas usually attribute the dream of a perfect society to the philosophers and jurists of the eighteenth century; but there was also a military dream of society; its fundamental reference was not to the state of nature, but to the meticulously subordinated cogs of a machine, not to the primal social contract, but to permanent coercions, not to fundamental rights, but to indefinitely progressive forms of training, not to the general will but to automatic docility.", "cite": "Foucault, 1975, p. 169" }
             ]
         }
+    },
+    "chun": {
+        "updating": {
+            "fullcite": "Chun, W.H.K. (2016). Updating to remain the same: Habitual new media. The MIT Press: Cambridge, MA",
+            "cards": [
+                { "text" : "The present as 'crisis ordinary' makes survival, however detrimental to long-term success, an accomplishment: we live in a moment of cruel optimism, in which an attachment to the promises of the good life is precisely what allows one to tread water, but not to swim.", "cite": "Chun, 2016, Part 1, Chapter 2" }
+            ]
+        }
+    },
+    "arendt": {
+        "totalitarianism": {
+            "fullcite": "Arendt, H. (1951). The origins of totalitarianism. Houghton Mifflin Harcourt.",
+            "cards": [
+                { "text": "the totalitarian leader, in marked contrast to all former usurpers, despots and tyrants, seems to believe that the question of his succession is not overly important, that no special qualities or training are needed for the job, that the country will eventually obey anybody who happens to hold the appointment...", "cite": "Arendt, 1951, p. 408" },
+                { "text": "this mentality is not confined to the elite but gradually pervades the entire population, the most intimate details of whose life and death depend upon political decisions— that is, upon causes and ulterior motives which have nothing to do with performance. Constant removal, demotion, and promotion make reliable teamwork impossible and prevent the development of experience.", "cite": "Arendt, 1951, p. 408"}
+            ]
+        }
     }
 }
