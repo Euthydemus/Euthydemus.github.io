@@ -7,3 +7,15 @@
     text-align: center;
     padding: .8em;
 }
+
+.post-content { 
+    max-width: 720px;
+    max-width: 100ch; 
+}
+
+blockquote p { width: auto; }
+
+blockquote footer { width: auto; }
+/*
+grid-template-columns: 100px 1fr 1fr minmax(40ch, 65ch) 1fr;
+*/
