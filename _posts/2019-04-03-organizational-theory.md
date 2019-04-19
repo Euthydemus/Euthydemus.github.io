@@ -106,7 +106,19 @@ their refusal to sacrifice anything at all for the sake of the people they expec
 pursue the strategy and achieve its goals for the sake of the organization shows how ill-gotten
 their position is.
 
-Simon Sinek, skilled remixer of historical knowledge, explains that sacrifice is a necessary
+The iconic example of this in action is "Neutron Jack" Welch, former CEO of GE. "Welch earned the 
+name “Neutron Jack” for his slash-and-burn management style, where he constantly eliminated... the 
+bottom 10% of executives and other workers" (Schwartz &amp; Gasparino, 2018) and "divested and laid
+off almost as much as he acquired... leaving empty buildings in his wake and earning him the name
+Neutron Jack" (Phelan, 2012), a behavior that clearly
+incentivizes infighting in the lower ranks. The fundamental problem is that survivorship bias is 
+not a substitute for meritocracy, a point that Jack noticed much too late: "in private, Welch places 
+most of the blame for the company’s problems on his hand-picked successor. Welch is said to believe 
+that Immelt did not have the chops to run the company’s core businesses..." (Schwartz &amp; Gasparino, 2018).
+
+To put it another way, Totalitarians never do a good job of succession planning.
+
+Looking for alternatives, Simon Sinek, skilled remixer of historical knowledge, explains that sacrifice is a necessary
 component of leadership<label for="sn-to-teach" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-to-teach" class="margin-toggle"/>
 <span class="sidenote"><a href="https://www.youtube.com/watch?v=eP38Cxve5xY">YouTube Video</a></span>,
@@ -119,4 +131,7 @@ themselves than they do about the organization.
 <p>{{ site.data.cards.arendt.totalitarianism.fullcite }}</p>
 <p>{{ site.data.cards.chun.updating.fullcite }}</p>
 <p>Mark, C. (2019, March 13). Meritocracy doesn’t exist, and believing it does is bad for you. Fast Company. Retrieved from <a href="https://www.fastcompany.com/40510522/meritocracy-doesnt-exist-and-believing-it-does-is-bad-for-you">https://www.fastcompany.com/40510522/meritocracy-doesnt-exist-and-believing-it-does-is-bad-for-you</a></p>
+<p>Phelan, K. (2012). Sorry I broke your company: When management consultants are the problem, not the solution. Berrett-Koehler.
+<p>Schwartz, B. &amp; Gasparino, C. (2018, January 19). Neutron Jack Welch is going nuclear over GE meltdown. Fox Business. Retrieved from 
+<a href="https://www.foxbusiness.com/markets/neutron-jack-welch-is-going-nuclear-over-ge-meltdown">https://www.foxbusiness.com/markets/neutron-jack-welch-is-going-nuclear-over-ge-meltdown</a></p>
 
