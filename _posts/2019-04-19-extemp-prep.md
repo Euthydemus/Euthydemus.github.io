@@ -60,7 +60,8 @@ and does a good job of highlighting his sources.</li>
 <li><a href="https://twitter.com/SionaJ">@SionaJ</a> -- Siona Jenkis is also a journalist focused mostly on Eurozone issues.</li>
 <li><a href="https://twitter.com/MiraRappHooper">@MiraRappHooper</a> -- Mira Rapp-Hooper, a lecturer at Yale Law School. You can see her amazing delivery when talking
 about <a href="https://www.intelligencesquaredus.org/debates/negotiations-can-denuclearize-north-korea">the infeasibility 
-of negotiating North Korean de-nuclearlization</a>.</li>
+of negotiating North Korean de-nuclearlization</a> or compressing a lot of issues into 
+<a href="https://vimeo.com/242629488">tight extemporaneous responses</a>.</li>
 <li><a href="https://twitter.com/SecurityScholar">@SecurityScholar</a> -- you should aspire to be as amazing as Natalie Sambhi.
 Several of my former students have confirmed, unsolicited, that she is a badass.</li>
 <li><a href="https://twitter.com/TXNatSecReview">@TXNatSecReview</a> -- Texas National Security Review is a journal that will
