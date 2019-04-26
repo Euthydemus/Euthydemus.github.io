@@ -83,10 +83,31 @@ like mutations: not all of them are really evolution, a lot of them are just can
 behind stoking change rather than trying to shield working teams from it is to allow an ongoing
 sense of crisis to narrow employees' vision.
 
-Perhaps you've finished developing one user story and find that there's another user story to work
-on, so-called iteration after so-called iteration with no tangible customer value in sight. That's
-not how Agile Development is supposed to work, but the endlessly renewed pile of little tasks is
-extremely conducive to fomenting a cruel optimism in software developers.
+Fraser abstracts the leadership-inflicted organizational crisis pattern as the Hegemonic Crisis:
+<blockquote>
+<p>Hegemonic crisis is about the sudden collapse of interpretive frames, value horizons, 
+and psychic investments, all of which had previously worked together to suture gaps in the 
+social-political universe. At this level, crisis is first and foremost about <em>disaffiliation</em>. 
+It involves withdrawal from established loyalties, party memberships, and commonsense world-views. 
+The mass psychology of hegemonic crisis consists in being set adrift, being disoriented and 
+disconnected. It is a hard, uncomfortable placed to inhabit. And it’s not in the long run 
+sustainable. On the contrary, hegemonic crisis is necessarily lived as an interregnum, a way 
+station en route to some new dispensation: a new worldview, a new set of affiliations, new 
+political loyalties and existential investments.</p>
+<footer>Fraser, 2019</footer>
+</blockquote>
+To be fair, some hegemonic crises are normal: a necessary re-alignment of business to market
+objectives, or when a company is bought out, or when career pursuits require moving to a
+new city. Extracting oneself from the status quo and all that was expected to continue for
+the sake of transplanting it into a new context is always going to be rough. The problems
+arise when the hegemonic forces don't recognize the magnitude of crises they're inflicting
+so they don't think twice about inflicting more of them and, in so doing, prevent recovery.
+
+The exit from a hegemonic crisis is the acceptance of the new context as signaled by--to follow
+Fraser's lead--committing to a new set of affiliations, loyalties, and investments. If,
+however, the cadence of crises results in a crisis-ordinary situation, then we should be
+unsurprised to see continued disaffiliation with the appearance of individuals' performative
+continuity being fueled only by cruel optimism.
 
 Chun describes Berlant's theory of Cruel Optimism thusly:
 <blockquote>
@@ -94,11 +115,12 @@ Chun describes Berlant's theory of Cruel Optimism thusly:
 <footer>{{ site.data.cards.chun.updating.cards[0].cite }}</footer>
 </blockquote>
 This is what happens when workers just have to roll with the punches that their leaders do not
-protect them from. The modern large organization can rely on cruel optimism to help maintain a
-status quo: employees have debts to pay, kids to raise, and can't just pack up and pursue an
-economic opportunity that isn't matched by similar for their spouse.
+protect them from or actively inflict upon them. The disaffiliation that is normal in a
+hegemonic crisis is going to become a culture of disengagement that persists even after the
+hegemonic crises, plural, have passed. Once people have been inadvertently convinced that
+effort is in fact not worth the effort, reversing that learning is very difficult.
 
-But the real harm to cruel optimism in an organization is that it eliminates the capacity for
+Thus the damage cruel optimism does to an organization is that it eliminates the capacity for
 strategic vision at the tactical level. After all, considering the recent cadence of reorganizations
 and layoffs, who really expects to see the glorious new 3-year plan come to fruition? Even if the
 Peter-Principled managerial staff had a strategy instead of just a word-cloud from HBR articles,
@@ -106,6 +128,16 @@ their refusal to sacrifice anything at all for the sake of the people they expec
 pursue the strategy and achieve its goals for the sake of the organization shows how ill-gotten
 their position is.
 
+One side effect of this is Conway's Law: {{ site.data.cards.axioms.conway.text }}
+<label for="sn-to-teach" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-to-teach" class="margin-toggle"/>
+<span class="sidenote"><a href="{{ site.data.cards.axioms.conway.xref }}">Wikipedia Entry</a></span>
+Put another way, the more team boundaries get crossed in designing a functional piece of software,
+the less coherent the software design is going to be. For our purposes, though, we see that
+chronic hegemonic crises occurring over the development of a piece of software will make it a
+miracle if anything ever gets delivered much less works in a reasonable or useful fashion.
+
+Another broader impace of this is that meritocracy replaces itself with survivorship bias.
 The iconic example of this in action is "Neutron Jack" Welch, former CEO of GE. "Welch earned the 
 name “Neutron Jack” for his slash-and-burn management style, where he constantly eliminated... the 
 bottom 10% of executives and other workers" (Schwartz &amp; Gasparino, 2018) and "divested and laid
@@ -114,9 +146,12 @@ Neutron Jack" (Phelan, 2012), a behavior that clearly
 incentivizes infighting in the lower ranks. The fundamental problem is that survivorship bias is 
 not a substitute for meritocracy, a point that Jack noticed much too late: "in private, Welch places 
 most of the blame for the company’s problems on his hand-picked successor. Welch is said to believe 
-that Immelt did not have the chops to run the company’s core businesses..." (Schwartz &amp; Gasparino, 2018).
-
-To put it another way, Totalitarians never do a good job of succession planning.
+that Immelt did not have the chops to run the company’s core businesses..." (Schwartz &amp; Gasparino, 2018),
+which is not a claim that Welch is allowed to retroactively make about his hand-picked successor.
+Welch's chronic, caustic meritocracy resulted in there being nobody able to replace him when the
+time came. There may be multiple reasons for this--Welch's GE was an incoherent conglomorate mess
+regardless of its stock valuation or anybody's ability to maintain it, for example--but Jack's
+leadership style was consistent through his tenure, his selection of successor, and his handoff.
 
 Looking for alternatives, Simon Sinek, skilled remixer of historical knowledge, explains that sacrifice is a necessary
 component of leadership<label for="sn-to-teach" class="margin-toggle sidenote-number"></label>
@@ -130,6 +165,7 @@ themselves than they do about the organization.
 <h3>References</h3>
 <p>{{ site.data.cards.arendt.totalitarianism.fullcite }}</p>
 <p>{{ site.data.cards.chun.updating.fullcite }}</p>
+<p>Fraser, N. (2019, April 23). Mass psychology of crisis. Public Seminar. Retrieved from <a href="http://www.publicseminar.org/2019/04/mass-psychology-of-crisis/">http://www.publicseminar.org/2019/04/mass-psychology-of-crisis/</a></p>
 <p>Mark, C. (2019, March 13). Meritocracy doesn’t exist, and believing it does is bad for you. Fast Company. Retrieved from <a href="https://www.fastcompany.com/40510522/meritocracy-doesnt-exist-and-believing-it-does-is-bad-for-you">https://www.fastcompany.com/40510522/meritocracy-doesnt-exist-and-believing-it-does-is-bad-for-you</a></p>
 <p>Phelan, K. (2012). Sorry I broke your company: When management consultants are the problem, not the solution. Berrett-Koehler.
 <p>Schwartz, B. &amp; Gasparino, C. (2018, January 19). Neutron Jack Welch is going nuclear over GE meltdown. Fox Business. Retrieved from 

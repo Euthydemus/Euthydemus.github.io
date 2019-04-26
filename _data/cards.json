@@ -15,6 +15,10 @@
         "pournelle": {
             "text": "In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals the bureaucracy is supposed to accomplish have less and less influence, and sometimes are eliminated entirely.",
             "xref": "https://en.wikipedia.org/wiki/Jerry_Pournelle#Iron_Law_of_Bureaucracy"
+        },
+        "conway": {
+            "text": "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.",
+            "xref": "https://en.wikipedia.org/wiki/Conway%27s_law"
         }
     },
     "foucault": {
