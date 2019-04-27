@@ -53,7 +53,9 @@ animus (<a href="https://5harad.com/papers/100M-stops.pdf">Pierson et al, 2019</
 in elevated violence against the populace (<a href="https://granta.com/violence-in-blue/">Ball, 2016</a>)
 with associated liability settlements (<a href="https://www.nydailynews.com/new-york/ny-stringer-report-nypd-payout-settlement-lawsuits-20190415-2zzm2zkhpna63dtlcr2zks6eoq-story.html">Rayman
 &amp; Guse, 2019</a>; <a href="http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf">Gladwell, 2006</a>)
-and also their intimate partners and families (<a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">Friedersdorf, 2014</a>).
+and also their intimate partners and families (<a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">Friedersdorf, 2014</a>). USA Today
+is elevating the disciplinary records of 85,000 police officers who faced charges of misconduct
+across the past decade (<a href="https://www.usatoday.com/in-depth/news/investigations/2019/04/24/usa-today-revealing-misconduct-records-police-cops/3223984002/">Kelly &amp; Nichols, 2019</a>)
 
 <h2>Overdeployment to find the bad guys</h2>
 
@@ -91,41 +93,69 @@ in more police being deployed and generating more paperwork: it's a feedback loo
 all prejudicial problems with predictive policing: "in numerous jurisdictions, [predictive policing] 
 systems are built on data produced during documented periods of flawed, racially biased, and sometimes 
 unlawful practices and policies" (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423">Richardson, 
-Schultz, &amp; Crawford, 2019</a>; <a href="https://cyber.harvard.edu/events/2019-04-16/dirty-data-bad-predictions">Presentation</a>)
+Schultz, &amp; Crawford, 2019</a>; <a href="https://cyber.harvard.edu/events/2019-04-16/dirty-data-bad-predictions">Presentation</a>).
+
+That's the very short of it. Looking closer, we see that police are collecting data from a variety of
+unsanitary sources inclusive of social media (<a href="https://www.brennancenter.org/blog/when-facebook-lands-you-jail">Robinson,
+2018</a>) and decontextualized warrantless surveillance (<a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">St. Vincent, 2017</a>) to
+automate the creation of databases thar are full of "usual suspects" but the quality of which is also
+usually suspect (<a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">RealSearch, 2012</a>; <a href="https://www.propublica.org/article/politic-il-insider-chicago-gang-database">Dumke,
+2018</a>). The databases are spawned at the nexus of "the threshold for inclusion in law enforcement
+databases is lower, now including individuals who have not had direct police contact" and "previously 
+separate data systems are merged, facilitating the spread of surveillance into a wide range of 
+institutions" (<a href="http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf">Brayne,
+2017</a>).
+
+<h2>Profiteering</h2>
+
+Police are not generally doing the IT work in these situations; that gets outsourced to companies that
+promise to increase police effectiveness and efficiency and--ultimately--save taxpayer money (even after 
+their enormous fees are paid). One leading vendor of these capabilities is Palantir: their work has been
+deployed in Los Angeles (<a href="https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030">Thompson,
+2018</a>) and, unsuccessfully, in New Orleans (<a href="https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd">Winston, 2018</a>; <a href="https://venturebeat.com/2018/03/19/5-lessons-learned-from-the-predictive-policing-failure-in-new-orleans/">Johansson, 2019</a>; <a href="https://github.com/lucyparsons/public_foiadocs">FOIA repository</a>). New York, meanwhile, appears to be sourcing its technology 
+from China (<a href="https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united">Chen, 2019</a>) which
+is probably not an improvement. This work is being grown towards the well-funded Pentagon's paranoia about megacities,
+specifically on the gang-affiliation vector (<a href="https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias">Winston &amp; Burrington, 2018</a>) but with little
+concern for the typically racialized and routinely classist collateral damage it recommends (<a href="https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4">Hoffman, 2018</a>).
+
+Additionally, the particular vector of facial recognition is both being actively developed at the
+behest of Homeland Security as a plank of their broad surveillance capability (<a href="https://www.eff.org/deeplinks/2018/06/hart-homeland-securitys-massive-new-database-will-include-face-recognition-dna-and">Lynch, 2018</a>),
+only there's a major problem: facial recognition is wildly unreliable particularly for underrepresented
+minorities. Vendors routinely misrepresent their products' capabilities resulting in deployment problems
+(<a href="https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil">McNeil, 2018</a>). The ACLU
+took particular issue with Amazon's offering, finding that it "falsely matched 28 members of congress
+with mugshots" (<a href="https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28">Snow, 2018</a>), but this came as no surprise to the FBI
+which recieved six key recommendations for its use of facial recognition technology in 2016 and has
+implemented none of them (<a href="https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/">Corrigan, 2019</a>).
+
+<h2>For-profit policing</h2>
+
+In many ways, the worst part of this is that these technologies are going to be intentionally oppressive
+to ensure that funding can be extracted from an increasingly criminalized public. Between aggressive and
+compounding municipal fines (<a href="https://www.motherjones.com/crime-justice/2018/02/how-does-chicago-make-200-million-a-year-on-parking-tickets-by-bankrupting-thousands-of-drivers/">Sanchez
+&amp; Kambhampati, 2018</a>) and civil asset forfeitures (<a href="https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/?utm_term=.ce53e1b04b94">Ingraham, 2015</a>;
+<a href="https://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/?post_id=837072795_10153178956682796#_=_">Sallah et al, 2014</a>; <a href="https://www.greenvilleonline.com/in-depth/news/taken/2019/01/27/civil-forfeiture-south-carolina-police-property-seizures-taken-exclusive-investigation/2457838002/#southcarolinaslegallegacy">Lee, Cary, &amp; Ellis, 2019</a>), modern policing is doing more economic damage to the citizenry than crime is. The 
+Southern Poverty Law Center notes that "some 10 million people owe $50 billion in court debt" and
+that the recent Supreme Court ruling to limit civil asset forfeiture will be cutting into $4.5 billion
+in annual police funding (<a href="https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture">Early, 2019</a>), funding that police department
+are likely to attempt to recover through alternate--extractive--means; the IRS previously ramped up asset
+forfeiture claims while having its operational funding--and ability to collect taxes from the wealthy--curtailed
+ (<a href="https://www.washingtonpost.com/news/wonk/wp/2017/04/05/the-irs-took-millions-from-innocent-people-because-of-how-they-managed-their-bank-accounts-inspector-general-finds/?utm_term=.56f766c5d4a1">Ingraham, 2017</a>; <a href="https://www.propublica.org/article/how-the-irs-was-gutted">Kiel 
+ &amp; Eisinger, 2018</a>).
+
+The impacts of for-profit policing are predominantly inflicted on the poor who have scant means of legal
+recourse (<a href="https://www.amazon.com/Not-Crime-Be-Poor-Criminalization-ebook/dp/B01MYEIZ5V/">Edelman, 2017</a>;
+<a href="https://www.amazon.com/Divide-American-Injustice-Age-Wealth-ebook/dp/B00EBRUB02/">Taibbi, 2014</a>).
+Of course, there's limited direct value in the process: "a homeless man in Sacramento, California, living under a 
+bridge received 190 citations from police (almost all related to sleeping outside and camping) and wound up 
+being assessed $104,000 in unpayable fines" (<a href="https://thebaffler.com/salvos/privatizing-poverty-phillips-fein">Phillips-Fein, 2018</a>). But in states that prevent the incarcerated and ex-convicts from voting, this is a functional means of
+disenfranchising citizens of the right to vote. After Florida restored voting rights to ex-convicts, the
+legislature passed a bill to require all court fees to be paid prior to exercising voting rights (<a href="https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html">Stracqualursi, 2019</a>; <a href="https://www.vox.com/policy-and-politics/2019/3/25/18277470/amendment-4-florida-felon-voting-rights-fees-legislation">Lockhart, 2019</a>). Some state and federal
+social programs also exlude ex-convicts as a means of reserving resources for the so-called "deserving" poor,
+but this leads directly to increased recidivism (<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435">Tuttle, 2018</a>).
 
 
-Palantir w/LAPD https://gizmodo.com/the-lapd-uses-palantir-tech-to-predict-and-surveil-prob-1825864026
-Palantir w/NOLA https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd and https://github.com/lucyparsons/public_foiadocs
-Warrantless Surveillance - https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/
-Predictive Policing - https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030
-Academic paper: http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf (inc. ineuquality)
-With racialization: https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias
-With engineering ethics: https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4
-
-California gang database http://www.youth4justice.org/wp-content/uploads/2013/07/Tracked-and-Trapped.pdf
-XREF DHS "HART" https://www.eff.org/deeplinks/2018/06/hart-homeland-securitys-massive-new-database-will-include-face-recognition-dna-and
-Surveillance subcontractors underdeliver resulting in injustice https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil
-(xref ACLU vs. Facial Recgonition https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
-and https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/
-
-Social media surveillance https://www.brennancenter.org/blog/when-facebook-lands-you-jail
-
-
-
-Civil Asset Forfeiture, 2014 - https://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/?post_id=837072795_10153178956682796#_=_
-2019 - https://www.greenvilleonline.com/in-depth/news/taken/2019/01/27/civil-forfeiture-south-carolina-police-property-seizures-taken-exclusive-investigation/2457838002/#southcarolinaslegallegacy
-
-Forfeiture > Burglary - https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/?utm_term=.ce53e1b04b94
 
 Recommended Reforms - https://www.vox.com/policy-and-politics/2016/11/29/12989428/police-shooting-race-crime
-
-
-Chicago parking tickets https://www.motherjones.com/crime-justice/2018/02/how-does-chicago-make-200-million-a-year-on-parking-tickets-by-bankrupting-thousands-of-drivers/ 
-Books on predatory policing https://thebaffler.com/salvos/privatizing-poverty-phillips-fein
-
-Sidebar:
-Pushing ex-cons off social services increases recidivism https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435
-
-IRS also does civil forfeiture https://www.washingtonpost.com/news/wonk/wp/2017/04/05/the-irs-took-millions-from-innocent-people-because-of-how-they-managed-their-bank-accounts-inspector-general-finds/?utm_term=.61be1b1da3fb
 
 Profile: Prison Abolitionist https://www.nytimes.com/2019/04/17/magazine/prison-abolition-ruth-wilson-gilmore.html
