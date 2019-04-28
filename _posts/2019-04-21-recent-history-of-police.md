@@ -128,6 +128,13 @@ with mugshots" (<a href="https://www.aclu.org/blog/privacy-technology/surveillan
 which recieved six key recommendations for its use of facial recognition technology in 2016 and has
 implemented none of them (<a href="https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/">Corrigan, 2019</a>).
 
+Stepping back from facial recognition to the relatively tame license plate recognition doesn't solve
+for all of the harms because they are still subject to the "pitfalls of automated policing, where one 
+piece of bad information can lead to a guns-drawn confrontation" (<a href="https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html">Warzel, 2019</a>). The fundamental problem
+of automation is that it efficiently compresses our humanity rather than merely compressing the work
+we do leaving an increased space for our humanity and this pattern is replicated in state-on-individual
+violence: as General Hayden asserted, "We kill people based on metadata" (<a href="https://www.nybooks.com/daily/2014/05/10/we-kill-people-based-metadata/">Cole, 2014</a>).
+
 <h2>For-profit policing</h2>
 
 In many ways, the worst part of this is that these technologies are going to be intentionally oppressive
@@ -149,7 +156,10 @@ recourse (<a href="https://www.amazon.com/Not-Crime-Be-Poor-Criminalization-eboo
 Of course, there's limited direct value in the process: "a homeless man in Sacramento, California, living under a 
 bridge received 190 citations from police (almost all related to sleeping outside and camping) and wound up 
 being assessed $104,000 in unpayable fines" (<a href="https://thebaffler.com/salvos/privatizing-poverty-phillips-fein">Phillips-Fein, 2018</a>). But in states that prevent the incarcerated and ex-convicts from voting, this is a functional means of
-disenfranchising citizens of the right to vote. After Florida restored voting rights to ex-convicts, the
+disenfranchising citizens of the right to vote. Beyond suppression of the vote, incarcerated people are also
+useful to gerrymanderers because they are considered to be residents of their prison, commonly inflating the
+population of rural districts (<a href="https://www.prisonersofthecensus.org/impact.html">Prison Policy 
+Initiative, n.d.</a>). After Florida restored voting rights to ex-convicts, the
 legislature passed a bill to require all court fees to be paid prior to exercising voting rights (<a href="https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html">Stracqualursi, 2019</a>; <a href="https://www.vox.com/policy-and-politics/2019/3/25/18277470/amendment-4-florida-felon-voting-rights-fees-legislation">Lockhart, 2019</a>). Some state and federal
 social programs also exlude ex-convicts as a means of reserving resources for the so-called "deserving" poor,
 but this leads directly to increased recidivism (<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435">Tuttle, 2018</a>).
@@ -164,7 +174,17 @@ Ball, P. (2016, March 4). Violence in blue. Granta. Retrieved from https://grant
 
 Barrett, D. (2019, January 3). Senate memo blasts U.S. Marshals Service for alleged misconduct, overspending. The Washington Post. Retrieved from https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html
 
+Brayne, S. (2017). Big data surveillance: The case of policing. American Sociological Review 2017, Vol. 82(5) 977–1008. Retrieved from http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf
+
 Chen, S. (2019, January 11). The Chinese technology helping New York police keep a closer eye on the United States’ biggest city. South China Morning Post. Retrieved from https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united
+
+Cole, D. (2014, May 10). 'We kill people based on metadata.' New York Review of Books. Retrieved from https://www.nybooks.com/daily/2014/05/10/we-kill-people-based-metadata/
+
+Corrigan, J. (2019, April 20). Say freeze? FBI's facial recognition accuracy unmeasured for three years, warns watchdog. Defense One. Retrieved from https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/
+
+Dowell Jr., S. (2017). Policing in America: How DOD Helped Undermine Posse Comitatus. Joint Force Quarterly, National Defense University Press. Retrieved from https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1130666/policing-in-america-how-dod-helped-undermine-posse-comitatus/
+
+Downs, K. (2016, October 21). FBI warned of white supremacists in law enforcement 10 years ago. Has anything changed? PBS News Hour. Retrieved from https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement
 
 Dumke, M. (2018, April 19). Chicago's gang database is full of errors--and records we have prove it. ProPublica. Retrieved from https://www.propublica.org/article/politic-il-insider-chicago-gang-database
 
@@ -174,16 +194,51 @@ Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse 
 
 Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf
 
+Hall, M. (2018, February 11). In the US, white supremacists have infiltrated police and military to get weapons training. The Sydney Morning Herald. Retrieved from https://www.smh.com.au/world/north-america/in-the-us-white-supremacists-have-infiltrated-police-and-military-to-get-weapons-training-20180209-p4yzs5.html
+
+Hoffman, A. L. (2018, April 30). Data violence and how bad engineering choices can damage society. Medium Featured Stories. Retrieved from https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4
+
 Johansson, A. (2018, March 19). 5 lessons learned from the predictive policing failure in New Orleans. VentureBeat. Retrieved from https://venturebeat.com/2018/03/19/5-lessons-learned-from-the-predictive-policing-failure-in-new-orleans/
+
+Ingraham, C. (2015, November 23). Law enforcement took more stuff from people than burglars did last year. The Washington Post. Retrieved from https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/
 
 Ingraham, C. (2017, April 5). The IRS took millions from innocent people because of how they managed their bank accounts, inspector general finds. The Washington Post. Retrieved from https://www.washingtonpost.com/news/wonk/wp/2017/04/05/the-irs-took-millions-from-innocent-people-because-of-how-they-managed-their-bank-accounts-inspector-general-finds/
 
 Kiel, P. &amp; Eisinger. (2018, December 11). How the IRS was gutted. ProPublica. Retrieved from https://www.propublica.org/article/how-the-irs-was-gutted
 
+Lennard, N. (2011, November 23). Robocops vs. the occupiers. Salon. Retrieved from https://www.salon.com/2011/11/23/robocops_vs_the_occupiers/
+
+Levin, S. (2018, February 9). California police worked with neo-Nazis to pursue 'anti-racist' activists, documents show. The Guardian. Retrieved from https://www.theguardian.com/world/2018/feb/09/california-police-white-supremacists-counter-protest
+
+Lockhart, P.R. (2019, April 25). Florida passed a historic expansion of voting rights. Now Republicans want to hobble it. Vox. Retrieved from https://www.vox.com/policy-and-politics/2019/3/25/18277470/amendment-4-florida-felon-voting-rights-fees-legislation
+
+Lynch, J. (2018, June 7). HART: Homeland Security’s Massive New Database Will Include Face Recognition, DNA, and Peoples’ “Non-Obvious Relationships”. Electronic Frontier Foundation. Retrieved from https://www.eff.org/deeplinks/2018/06/hart-homeland-securitys-massive-new-database-will-include-face-recognition-dna-and
+
+McNeil, J. (2018, July). Big brother's blind spot. The Baffler. Retrieved from https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil
+
+Millman, Z. (2018, November 30). 19 years later: Looking back at the Battle in Seattle, the WTO riots. Seattle Post Intelligencer. Retrieved from https://www.seattlepi.com/local/seattle-history/article/WTO-Riots-Battle-Seattle-1999-anniversary-13431709.php
+
+Pierson, E., et al. (2019). A large-scale analysis of racial disparities in police
+stops across the United States. Retrieved from https://5harad.com/papers/100M-stops.pdf
+
+Prison Policy Initiative. (n.d.). The problem. Retrieved from https://www.prisonersofthecensus.org/impact.html
+
 Rayman, G. &amp; Guse, C. (2019, April 15). NYC spent $230M on NYPD settlements last year: report. Daily News. Retrived from https://www.nydailynews.com/new-york/ny-stringer-report-nypd-payout-settlement-lawsuits-20190415-2zzm2zkhpna63dtlcr2zks6eoq-story.html
+
+Richardson, R., Schultz, J., & Crawford, K. (2019). Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice. Retrieved from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423
+
+Robinson, S. (2018, July 6). When a Facebook Like lands you in jail. Brennan Center for Justice. Retrieved from https://www.brennancenter.org/blog/when-facebook-lands-you-jail
 
 Sexton, J. (2018, January 16). In New York, crime falls along with police stops. ProPublica. Retrieved from https://www.propublica.org/article/in-new-york-crime-falls-along-with-police-stops
 
+Snow, J. (2018, July 26). Amazon's face recognition falsely matched 28 members of congress with mugshots. ACLU. Retrieved from https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28
+
+Stanford Open Policing Project. (n.d.). Available at https://openpolicing.stanford.edu/
+
 Stracqualursi, V. (2019, April 25). Florida House passes bill that would require ex-felons pay all fees before exercising voting rights. CNN. Retrieved from https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html
 
+Turse, N. (2016, October 13). Pentagon video warns of "unavoidable" dystopian future for world's biggest cities. The Intercept. Retrieved from https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/
+
 Tuttle, C. (2018, June 12). Snapping back: Food stamp bans and criminal recidivism. Retrieved from https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435
+
+Warzel, C. (2019, April 23). When license-plate surveillance goes horribly wrong. The New York Times. Retrieved from https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html

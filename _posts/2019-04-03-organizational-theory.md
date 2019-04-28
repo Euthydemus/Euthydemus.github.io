@@ -30,7 +30,10 @@ lavishly rewarded compared to responsible workers who neglect self-promotion act
 expecting that their work will be a suitable testament to their skill. It will not: the
 skilled corporate ladder-climber will boast of being "on the team" that delivered the valuable
 work and also uniquely brag about how they uniquely influenced some other part of the organization,
-clearly outperforming the people who were merely on the team.
+clearly outperforming the people who were merely on the team. (While Goodhart was focused
+on economic policy, his formulation was a reduction of Cambpell's Law: {{ site.data.cards.axioms.campbell.text }}<label for="sn-to-teach" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-to-teach" class="margin-toggle"/>
+<span class="sidenote"><a href="{{ site.data.cards.axioms.campbell.xref }}">Wikipedia Entry</a></span>)
 
 This is where we get into the Peter Principle: {{ site.data.cards.axioms.peter.text }}
 <label for="sn-to-teach" class="margin-toggle sidenote-number"></label>
