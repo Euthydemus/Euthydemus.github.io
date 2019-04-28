@@ -159,3 +159,31 @@ but this leads directly to increased recidivism (<a href="https://papers.ssrn.co
 Recommended Reforms - https://www.vox.com/policy-and-politics/2016/11/29/12989428/police-shooting-race-crime
 
 Profile: Prison Abolitionist https://www.nytimes.com/2019/04/17/magazine/prison-abolition-ruth-wilson-gilmore.html
+
+Ball, P. (2016, March 4). Violence in blue. Granta. Retrieved from https://granta.com/violence-in-blue/
+
+Barrett, D. (2019, January 3). Senate memo blasts U.S. Marshals Service for alleged misconduct, overspending. The Washington Post. Retrieved from https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html
+
+Chen, S. (2019, January 11). The Chinese technology helping New York police keep a closer eye on the United States’ biggest city. South China Morning Post. Retrieved from https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united
+
+Dumke, M. (2018, April 19). Chicago's gang database is full of errors--and records we have prove it. ProPublica. Retrieved from https://www.propublica.org/article/politic-il-insider-chicago-gang-database
+
+Early, E. (2019, April 16). What the Supreme Court ruling could mean for civil asset forfeiture. Southern Poverty Law Center. Retrieved from https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture
+
+Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse problem than the NFL does. The Atlantic. Retrieved from https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/
+
+Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf
+
+Johansson, A. (2018, March 19). 5 lessons learned from the predictive policing failure in New Orleans. VentureBeat. Retrieved from https://venturebeat.com/2018/03/19/5-lessons-learned-from-the-predictive-policing-failure-in-new-orleans/
+
+Ingraham, C. (2017, April 5). The IRS took millions from innocent people because of how they managed their bank accounts, inspector general finds. The Washington Post. Retrieved from https://www.washingtonpost.com/news/wonk/wp/2017/04/05/the-irs-took-millions-from-innocent-people-because-of-how-they-managed-their-bank-accounts-inspector-general-finds/
+
+Kiel, P. &amp; Eisinger. (2018, December 11). How the IRS was gutted. ProPublica. Retrieved from https://www.propublica.org/article/how-the-irs-was-gutted
+
+Rayman, G. &amp; Guse, C. (2019, April 15). NYC spent $230M on NYPD settlements last year: report. Daily News. Retrived from https://www.nydailynews.com/new-york/ny-stringer-report-nypd-payout-settlement-lawsuits-20190415-2zzm2zkhpna63dtlcr2zks6eoq-story.html
+
+Sexton, J. (2018, January 16). In New York, crime falls along with police stops. ProPublica. Retrieved from https://www.propublica.org/article/in-new-york-crime-falls-along-with-police-stops
+
+Stracqualursi, V. (2019, April 25). Florida House passes bill that would require ex-felons pay all fees before exercising voting rights. CNN. Retrieved from https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html
+
+Tuttle, C. (2018, June 12). Snapping back: Food stamp bans and criminal recidivism. Retrieved from https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435
