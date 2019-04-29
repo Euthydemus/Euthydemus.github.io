@@ -135,6 +135,82 @@ of automation is that it efficiently compresses our humanity rather than merely 
 we do leaving an increased space for our humanity and this pattern is replicated in state-on-individual
 violence: as General Hayden asserted, "We kill people based on metadata" (<a href="https://www.nybooks.com/daily/2014/05/10/we-kill-people-based-metadata/">Cole, 2014</a>).
 
+<h2>Surveillance: Example and abstraction</h2>
+
+Let's take a short break from the police to cover the theory background of surveillance and power,
+and we'll borrow the headline "Disney has fired Guardians of the Galaxy director James Gunn over old, 
+gross tweets" with the note that "There was a conservative push to make it happen" (<a href="https://www.vox.com/2018/7/20/17596506/disney-fired-james-gunn-guardians">Abad-Santos, 2018</a>) as the smallest possible implementation of
+the pattern.
+
+First, Foucault observes that Twitter is easy to use and this has implications.
+
+<blockquote>
+<p>For a long time ordinary individuality – the everyday individuality of everybody – remained below 
+the threshold of description. To be looked at, observed, described in detail, followed from day to day 
+by an uninterrupted writing was a privilege. The chronicle of a man, the account of his life, his 
+historiography, written as he lived out his life formed part of the rituals of his power. The 
+disciplinary methods reversed this relation, lowered the threshold of describable individuality and 
+made of this description a means of control and a method of domination. It is no longer a monument for 
+future memory, but a document for possible use. ... This turning of real lives into writing is no 
+longer a procedure of heroization; it functions as a procedure of objectification and subjection.</p>
+<footer>Foucault, 1975, p. 191-192</footer>
+</blockquote>
+
+There are two major things going on here:
+<ol>
+<li>Some people like contributing to their surveillance because it makes them feel important. Not necessarily
+state-sponsored surveillance directly (they never retweet us!), but certainly posting on Twitter, on Facebook, 
+on Instagram, and measuring the social capital they hold: this is a modern ritual of power.</li>
+<li>More importantly, however, is that the surveillance mechanism does not forget: the long-running document
+for possible use becomes a customized snare, a collection of minor infractions pressed together and magnified
+to appear as an avalanche of malfeasance with slow justice eventually blindsiding the unlucky individual. 
+This can be seen in the dossier that Agent Smith reveals to Thomas Anderson in <em>The Matrix</em> or in the
+subtext that "there was a conservative push" to get James Gunn blacklisted because of old tweets he had
+forgotten about.</li>
+</ol>
+
+Next, Gunn's lack of self-discipline regarding his public tweets made him vulnerable. Surveillance, even
+discontinuous, random, adversarial surveillance requires ample discipline in action. More precisely,
+because the status and usage of the surveillance power is unkown and no actual relationship can be
+engaged, individuals are necessarily responsible to act in conformance with the expectations of the 
+unknown audience.
+<blockquote>
+<p>Hence the major effect of the Panopticon: to induce in the inmate a state of conscious and permanent 
+visibility that assures the automatic functioning of power. So to arrange things that the surveillance is 
+permanent in its effects, even if it is discontinuous in its action; that the perfection of power should 
+tend to render its actual exercise unnecessary; that this architectural apparatus should be a machine for 
+creating and sustaining a power relation independent of the person who exercises it; in short, that the 
+inmates should be caught up in a power situation of which they are themselves the bearers.</p>
+<footer>Foucault, 1975, p. 201</footer>
+</blockquote>
+The threshold for actually triggering responses is highly variable, limiting the precision with which
+self-discipline is an accessible effect (and is never quite enforced), but the idea is there.
+
+All of this goes into the larger question of social values and what kind of a world people want to live
+in. Foucault reminds us that we're not all looking to the same future:
+
+<blockquote>
+<p>{{ site.data.cards.foucault.discipline.cards[0].text }}</p>
+<footer>{{ site.data.cards.foucault.discipline.cards[0].cite }}</footer>
+</blockquote>
+
+The goal of the Panoptic surveillance society is not so much about preventing crime, but about keeping
+the masses of socioeconomically insignificant people in their place while the powerful and connected
+do whatever they want. As Chesterton (1908) explained, "The poor have sometimes objected to being governed 
+badly; the rich have always objected to being governed at all" (p. 107).
+
+Gunn was powerful and connected enough to be rehired (<a href="https://www.theguardian.com/film/2019/mar/15/james-gunn-guardians-of-the-galaxy-3">Guardian Film, 2019</a>). When this pattern played out on Quinn
+Norton, her consolation prize was an article in <em>The Atlantic</em> (<a href="https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/">2018</a>). Contrariwise, Trump engages in behavior
+ranging from the unsavory to the criminal in full display but continues to have tens of millions of
+supporters.
+
+To summarize: surveillance gives knowledge of subjects which has the potential to be turned into power
+and wielded asynchronously against them. Most people, being aware of the possibility of that power and
+underrating their capacity to resist it, will attempt to conform their behavior to avoid causing a
+confrontation. But the cost/benefit analysis of such a confrontation is highly variable resulting in
+uneven reactions of power across a population.
+
+
 <h2>For-profit policing</h2>
 
 In many ways, the worst part of this is that these technologies are going to be intentionally oppressive
@@ -170,6 +246,8 @@ Recommended Reforms - https://www.vox.com/policy-and-politics/2016/11/29/1298942
 
 Profile: Prison Abolitionist https://www.nytimes.com/2019/04/17/magazine/prison-abolition-ruth-wilson-gilmore.html
 
+Abad-Santos, A. (2018, July 20). Disney has fired Guardians of the Galaxy director James Gunn over old, gross tweets. Vox. Retrieved from https://www.vox.com/2018/7/20/17596506/disney-fired-james-gunn-guardians
+
 Ball, P. (2016, March 4). Violence in blue. Granta. Retrieved from https://granta.com/violence-in-blue/
 
 Barrett, D. (2019, January 3). Senate memo blasts U.S. Marshals Service for alleged misconduct, overspending. The Washington Post. Retrieved from https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html
@@ -177,6 +255,8 @@ Barrett, D. (2019, January 3). Senate memo blasts U.S. Marshals Service for alle
 Brayne, S. (2017). Big data surveillance: The case of policing. American Sociological Review 2017, Vol. 82(5) 977–1008. Retrieved from http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf
 
 Chen, S. (2019, January 11). The Chinese technology helping New York police keep a closer eye on the United States’ biggest city. South China Morning Post. Retrieved from https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united
+
+Chesterton, G.K. (1908). The man who was Thursday: A nightmare. Public domain, Kindle edition.
 
 Cole, D. (2014, May 10). 'We kill people based on metadata.' New York Review of Books. Retrieved from https://www.nybooks.com/daily/2014/05/10/we-kill-people-based-metadata/
 
@@ -190,9 +270,13 @@ Dumke, M. (2018, April 19). Chicago's gang database is full of errors--and recor
 
 Early, E. (2019, April 16). What the Supreme Court ruling could mean for civil asset forfeiture. Southern Poverty Law Center. Retrieved from https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture
 
+{{ site.data.cards.foucault.discipline.fullcite }}
+
 Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse problem than the NFL does. The Atlantic. Retrieved from https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/
 
 Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf
+
+Guardian Film. (2019, March 15). James Gunn reinstated as Guardians of the Galaxy 3 director after Disney firing. The Guardian. Retrieved from https://www.theguardian.com/film/2019/mar/15/james-gunn-guardians-of-the-galaxy-3
 
 Hall, M. (2018, February 11). In the US, white supremacists have infiltrated police and military to get weapons training. The Sydney Morning Herald. Retrieved from https://www.smh.com.au/world/north-america/in-the-us-white-supremacists-have-infiltrated-police-and-military-to-get-weapons-training-20180209-p4yzs5.html
 
@@ -217,6 +301,8 @@ Lynch, J. (2018, June 7). HART: Homeland Security’s Massive New Database Will 
 McNeil, J. (2018, July). Big brother's blind spot. The Baffler. Retrieved from https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil
 
 Millman, Z. (2018, November 30). 19 years later: Looking back at the Battle in Seattle, the WTO riots. Seattle Post Intelligencer. Retrieved from https://www.seattlepi.com/local/seattle-history/article/WTO-Riots-Battle-Seattle-1999-anniversary-13431709.php
+
+Norton, Q. (2018, February 27). The New York Times fired my doppelganger. The Atlantic. Retrieved from https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/
 
 Pierson, E., et al. (2019). A large-scale analysis of racial disparities in police
 stops across the United States. Retrieved from https://5harad.com/papers/100M-stops.pdf
