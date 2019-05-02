@@ -17,11 +17,11 @@ thousand, put the city on lockdown and unleashed an arsenal of crowd control wea
 overwhelmingly peaceful gatherings.</p>
 <footer><a href="https://www.salon.com/2003/12/17/miami_police/">Goldberg, 2003</a></footer>
 </blockquote>
-The hyper-proactivity of the police was following on the <a href="https://www.seattlepi.com/local/seattle-history/article/WTO-Riots-Battle-Seattle-1999-anniversary-13431709.php">1999 Seattle riots</a>. I declined
+The hyper-proactivity of the police was following on the 1999 Seattle riots{% include /aside.html nid="millman18" text='<a href="https://www.seattlepi.com/local/seattle-history/article/WTO-Riots-Battle-Seattle-1999-anniversary-13431709.php">Millman, 2018</a>'%}. I declined
 an invitation to that event while I was in college. I also lost a debate to Brenna Bell,
 cited by Goldberg in Miami, in my most-successful college tournament. I have been on the edge
-of this circle multiple times in my life. Natasha Lennard (<a 
-href="https://www.salon.com/2011/11/23/robocops_vs_the_occupiers/">2011</a>)
+of this circle multiple times in my life. Natasha Lennard{% include /aside.html nid="lennard11" text='<a 
+href="https://www.salon.com/2011/11/23/robocops_vs_the_occupiers/">2011</a>' %}
 looked at how this grew into a reflexive repression of political and economic protest, quoting
 former Seattle Police Chief Stamper despairing that "The message doesn't seem to go through: 
 Militarized tactics exacerbate situations."
@@ -29,39 +29,38 @@ Militarized tactics exacerbate situations."
 <h2>Police facilitate and exacerbate politicized and racist violence</h2> 
 
 A particularly problematic aspect of police being ideologically arrayed against "anarchists"
-is that they end up playing well with Nazis in Sacramento (<a href="https://www.theguardian.com/world/2018/feb/09/california-police-white-supremacists-counter-protest">Levin, 2018</a>) and right-wing
-extremists in Portland (<a href="https://www.nytimes.com/2019/02/17/us/portland-police-patriot-prayer-texts.html">Fortin,
-2019</a>). We are well aware that "Law enforcement, the military, and politics in the United 
+is that they end up playing well with Nazis in Sacramento{% include /aside.html nid="levin18" text='<a href="https://www.theguardian.com/world/2018/feb/09/california-police-white-supremacists-counter-protest">Levin, 2018</a>' %} and right-wing
+extremists in Portland{% include /aside.html nid="fortin19" text='<a href="https://www.nytimes.com/2019/02/17/us/portland-police-patriot-prayer-texts.html">Fortin, 2019</a>'%}. We are well aware that 
+"Law enforcement, the military, and politics in the United 
 States have been infiltrated by white supremacists, who use it to recruit others and gain 
-paramilitary training" (<a href="https://www.smh.com.au/world/north-america/in-the-us-white-supremacists-have-infiltrated-police-and-military-to-get-weapons-training-20180209-p4yzs5.html">Hall,
-2018</a>) and that the FBI raised a warning about it over a decade ago (<a href="https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement">Downs, 2016</a>). This isn't new; the policy of
+paramilitary training"{% include /aside.html nid="hall18" text='<a href="https://www.smh.com.au/world/north-america/in-the-us-white-supremacists-have-infiltrated-police-and-military-to-get-weapons-training-20180209-p4yzs5.html">Hall,
+2018</a>'%} and that the FBI raised a warning about it over a decade ago{% include /aside.html nid="downs16" text='<a href="https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement">Downs, 2016</a>'%}. This isn't new; the policy of
 Qualified Immunity is supposed to prevent KKK members from engaging in racialized
-violence under "color of law" and getting away with it (<a href="http://www.lexwerks.com/article/trumping-qualified-immunity/">Miller, 
-2016</a>)--with the key word being "supposed."
+violence under "color of law" and getting away with it{% include /aside.html nid="miller16" text='<a href="http://www.lexwerks.com/article/trumping-qualified-immunity/">Miller, 2016</a>'%}--with the key word being "supposed."
 
 Looking forward to increasing urban density and environmental pressures from global warming,
 the Pentagon’s Joint Special Operations University warns that megacities "are the future breeding 
-grounds, incubators, and launching pads for adversaries and hybrid threats" (<a href="https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/">Turse, 2018</a>).
+grounds, incubators, and launching pads for adversaries and hybrid threats"{% include /aside.html nid="turse2018" text='<a href="https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/">Turse, 2018</a>'%}.
 It is less-than-clear that the deployment of an admixture of security forces with instigators has
 been fully comprehended by the personnel considering this future. Indeed, the indicators suggest
 that the Posse Comitatus act that generally prevents military personnel from engaging in domestic
 law enforcement is being actively corroded by the ongoing militarization of the civilian police
-force (<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1130666/policing-in-america-how-dod-helped-undermine-posse-comitatus/">Dowell, 2017</a>). 
+force{% include /aside.html nid="dowell2017" text='<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1130666/policing-in-america-how-dod-helped-undermine-posse-comitatus/">Dowell, 2017</a>'%}. 
 
-To recap: modern policing is lax and porous in its procedures (<a href="https://theintercept.com/2018/01/09/dark-side-fbi-dea-illegal-searches-secret-evidence/"> , 2018</a>; <a href="https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html">Barrett, 2019</a>), is deployed unequally on racial
-animus (<a href="https://5harad.com/papers/100M-stops.pdf">Pierson et al, 2019</a>; <a href="https://twitter.com/5harad/status/1105985260041297920">discussion</a> and <a href="https://openpolicing.stanford.edu/">data</a>), resulting
-in elevated violence against the populace (<a href="https://granta.com/violence-in-blue/">Ball, 2016</a>)
-with associated liability settlements (<a href="https://www.nydailynews.com/new-york/ny-stringer-report-nypd-payout-settlement-lawsuits-20190415-2zzm2zkhpna63dtlcr2zks6eoq-story.html">Rayman
-&amp; Guse, 2019</a>; <a href="http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf">Gladwell, 2006</a>)
-and also their intimate partners and families (<a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">Friedersdorf, 2014</a>). USA Today
+To recap: modern policing is lax and porous in its procedures{% include /aside.html nid="aaronson2018barrett2019" text='<a href="https://theintercept.com/2018/01/09/dark-side-fbi-dea-illegal-searches-secret-evidence/">Aaronson, 2018</a>; <a href="https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html">Barrett, 2019</a>'%}, is deployed unequally on racial
+animus{% include /aside.html nid="pierson2019" text='<a href="https://5harad.com/papers/100M-stops.pdf">Pierson et al, 2019</a>; <a href="https://twitter.com/5harad/status/1105985260041297920">discussion</a> and <a href="https://openpolicing.stanford.edu/">data</a>'%}, resulting
+in elevated violence against the populace{% include /aside.html nid="ball2016" text='<a href="https://granta.com/violence-in-blue/">Ball, 2016</a>'%}
+with associated liability settlements{% include /aside.html nid="raymanguse2019gladwell2006" text='<a href="https://www.nydailynews.com/new-york/ny-stringer-report-nypd-payout-settlement-lawsuits-20190415-2zzm2zkhpna63dtlcr2zks6eoq-story.html">Rayman
+&amp; Guse, 2019</a>; <a href="http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf">Gladwell, 2006</a>'%}
+and also their intimate partners and families{% include /aside.html nid="friedersdorf2014" text='<a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">Friedersdorf, 2014</a>'%}. USA Today
 is elevating the disciplinary records of 85,000 police officers who faced charges of misconduct
-across the past decade (<a href="https://www.usatoday.com/in-depth/news/investigations/2019/04/24/usa-today-revealing-misconduct-records-police-cops/3223984002/">Kelly &amp; Nichols, 2019</a>)
+across the past decade{% include /aside.html nid="kelly2019" text='<a href="https://www.usatoday.com/in-depth/news/investigations/2019/04/24/usa-today-revealing-misconduct-records-police-cops/3223984002/">Kelly &amp; Nichols, 2019</a>'%}.
 
 <h2>Overdeployment to find the bad guys</h2>
 
 By way of contrast, it should be noted that when New York City was forced to give up its 
-racially-charged Stop-and-Frisk program, crime went down (<a href="https://www.propublica.org/article/in-new-york-crime-falls-along-with-police-stops">Sexton, 2018</a>), contrary to Pentagon paranoia
-which reflects the FBI's lucrative pivot toward terror plots (<a href="https://www.amazon.com/Terror-Factory-Inside-Maufactured-Terrorism-ebook/dp/B00ATLNH78/">Aaronson, 2013</a>): the people
+racially-charged Stop-and-Frisk program, crime went down {% include /aside.html nid="sexton2018" text='(<a href="https://www.propublica.org/article/in-new-york-crime-falls-along-with-police-stops">Sexton, 2018</a>'%}, contrary to Pentagon paranoia
+which reflects the FBI's lucrative pivot toward terror plots{% include /aside.html nid="aaronson2013" text='<a href="https://www.amazon.com/Terror-Factory-Inside-Maufactured-Terrorism-ebook/dp/B00ATLNH78/">Aaronson, 2013</a>'%}: the people
 engaged in these enforcement activities like to believe that their work is good and valuable. This
 is a convienent post-hoc fallacy that saves them from questioning the rightness of their actions
 so long as they are doing something, and it is problematic because there is no limit to the systems
@@ -75,7 +74,7 @@ were bad people, so if he could just catch the bad people then crime would decre
 lack of an increase in crime indicates, this is not the case. And it's even less of the case
 when observing that, for example and in pursuit of cybercrime, "the FBI operated the site for nearly 
 two weeks, allowing thousands of images of child pornography to be downloaded (a federal crime, which carries 
-steep penalties)" (<a href="https://www.eff.org/deeplinks/2016/09/playpen-story-fbis-unprecedented-and-illegal-hacking-operation">Rumold, 2016</a>). This isn't to say that I think the individual FBI officer I knew was a bad person (regarless of my
+steep penalties)"{% include /aside.html nid="rumold2016" text='<a href="https://www.eff.org/deeplinks/2016/09/playpen-story-fbis-unprecedented-and-illegal-hacking-operation">Rumold, 2016</a>'%}. This isn't to say that I think the individual FBI officer I knew was a bad person (regarless of my
 personal feelings about him) but rather that he wasn't putting in the hard work of critical self-
 reflection necessary to elevate him to being a particularly good person.
 
@@ -92,8 +91,8 @@ neighborhoods were high-crime because that's where the police were recording pap
 in more police being deployed and generating more paperwork: it's a feedback loop and it exacerbates
 all prejudicial problems with predictive policing: "in numerous jurisdictions, [predictive policing] 
 systems are built on data produced during documented periods of flawed, racially biased, and sometimes 
-unlawful practices and policies" (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423">Richardson, 
-Schultz, &amp; Crawford, 2019</a>; <a href="https://cyber.harvard.edu/events/2019-04-16/dirty-data-bad-predictions">Presentation</a>).
+unlawful practices and policies"{% include /aside.html nid="richardson2019" text='<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423">Richardson, 
+Schultz, &amp; Crawford, 2019</a>; <a href="https://cyber.harvard.edu/events/2019-04-16/dirty-data-bad-predictions">Presentation</a>'%}.
 
 That's the very short of it. Looking closer, we see that police are collecting data from a variety of
 unsanitary sources inclusive of social media (<a href="https://www.brennancenter.org/blog/when-facebook-lands-you-jail">Robinson,
