@@ -95,37 +95,35 @@ unlawful practices and policies"{% include /aside.html nid="richardson2019" text
 Schultz, &amp; Crawford, 2019</a>; <a href="https://cyber.harvard.edu/events/2019-04-16/dirty-data-bad-predictions">Presentation</a>'%}.
 
 That's the very short of it. Looking closer, we see that police are collecting data from a variety of
-unsanitary sources inclusive of social media (<a href="https://www.brennancenter.org/blog/when-facebook-lands-you-jail">Robinson,
-2018</a>) and decontextualized warrantless surveillance (<a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">St. Vincent, 2017</a>) to
+unsanitary sources inclusive of social media{% include /aside.html nid="robinson2018" text='<a href="https://www.brennancenter.org/blog/when-facebook-lands-you-jail">Robinson,
+2018</a>'%} and decontextualized warrantless surveillance{% include /aside.html nid="vincent2017" text='<a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">St. Vincent, 2017</a>'%} to
 automate the creation of databases thar are full of "usual suspects" but the quality of which is also
-usually suspect (<a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">RealSearch, 2012</a>; <a href="https://www.propublica.org/article/politic-il-insider-chicago-gang-database">Dumke,
-2018</a>). The databases are spawned at the nexus of "the threshold for inclusion in law enforcement
+usually suspect{% include /aside.html nid="realsearch2012dumke2018" text='<a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">RealSearch, 2012</a>; <a href="https://www.propublica.org/article/politic-il-insider-chicago-gang-database">Dumke,
+2018</a>'%}. The databases are spawned at the nexus of "the threshold for inclusion in law enforcement
 databases is lower, now including individuals who have not had direct police contact" and "previously 
 separate data systems are merged, facilitating the spread of surveillance into a wide range of 
-institutions" (<a href="http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf">Brayne,
-2017</a>).
+institutions"{% include /aside.html nid="brayne2017" text='<a href="http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf">Brayne, 2017</a>'%}.
 
 <h2>Profiteering</h2>
 
 Police are not generally doing the IT work in these situations; that gets outsourced to companies that
 promise to increase police effectiveness and efficiency and--ultimately--save taxpayer money (even after 
 their enormous fees are paid). One leading vendor of these capabilities is Palantir: their work has been
-deployed in Los Angeles (<a href="https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030">Thompson,
-2018</a>) and, unsuccessfully, in New Orleans (<a href="https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd">Winston, 2018</a>; <a href="https://venturebeat.com/2018/03/19/5-lessons-learned-from-the-predictive-policing-failure-in-new-orleans/">Johansson, 2019</a>; <a href="https://github.com/lucyparsons/public_foiadocs">FOIA repository</a>). New York, meanwhile, appears to be sourcing its technology 
-from China (<a href="https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united">Chen, 2019</a>) which
+deployed in Los Angeles{% include /aside.html nid="thompson2018" text='<a href="https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030">Thompson,
+2018</a>'%} and, unsuccessfully, in New Orleans{% include /aside.html nid="winston2018johansson2019" text='<a href="https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd">Winston, 2018</a>; <a href="https://venturebeat.com/2018/03/19/5-lessons-learned-from-the-predictive-policing-failure-in-new-orleans/">Johansson, 2019</a>; <a href="https://github.com/lucyparsons/public_foiadocs">FOIA repository</a>'%}. New York, meanwhile, appears to be sourcing its technology 
+from China{% include /aside.html nid="chen2019" text='<a href="https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united">Chen, 2019</a>'%} which
 is probably not an improvement. This work is being grown towards the well-funded Pentagon's paranoia about megacities,
-specifically on the gang-affiliation vector (<a href="https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias">Winston &amp; Burrington, 2018</a>) but with little
-concern for the typically racialized and routinely classist collateral damage it recommends (<a href="https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4">Hoffman, 2018</a>).
+specifically on the gang-affiliation vector{% include /aside.html nid="burrington2018" text='<a href="https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias">Winston &amp; Burrington, 2018</a>'%} but with little
+concern for the typically racialized and routinely classist collateral damage it recommends {% include /aside.html nid="hoffman2018" text='<a href="https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4">Hoffman, 2018</a>'%}.
 
 Additionally, the particular vector of facial recognition is both being actively developed at the
-behest of Homeland Security as a plank of their broad surveillance capability (<a href="https://www.eff.org/deeplinks/2018/06/hart-homeland-securitys-massive-new-database-will-include-face-recognition-dna-and">Lynch, 2018</a>),
+behest of Homeland Security as a plank of their broad surveillance capability{% include /aside.html nid="lynch2018" text='<a href="https://www.eff.org/deeplinks/2018/06/hart-homeland-securitys-massive-new-database-will-include-face-recognition-dna-and">Lynch, 2018</a>'%},
 only there's a major problem: facial recognition is wildly unreliable particularly for underrepresented
-minorities. Vendors routinely misrepresent their products' capabilities resulting in deployment problems
-(<a href="https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil">McNeil, 2018</a>). The ACLU
+minorities. Vendors routinely misrepresent their products' capabilities resulting in deployment problems{% include /aside.html nid="mcneil2018" text='<a href="https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil">McNeil, 2018</a>'%}. The ACLU
 took particular issue with Amazon's offering, finding that it "falsely matched 28 members of congress
-with mugshots" (<a href="https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28">Snow, 2018</a>), but this came as no surprise to the FBI
+with mugshots"{% include /aside.html nid="snow2018" text='<a href="https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28">Snow, 2018</a>'%}, but this came as no surprise to the FBI
 which recieved six key recommendations for its use of facial recognition technology in 2016 and has
-implemented none of them (<a href="https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/">Corrigan, 2019</a>).
+implemented none of them{% include /aside.html nid="corrigan2019" text='<a href="https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/">Corrigan, 2019</a>'%}.
 
 Stepping back from facial recognition to the relatively tame license plate recognition doesn't solve
 for all of the harms because they are still subject to the "pitfalls of automated policing, where one 
