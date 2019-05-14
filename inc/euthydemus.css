@@ -16,6 +16,8 @@
 blockquote p { width: auto; }
 
 blockquote footer { width: auto; }
+
+.references p { margin-left: 2em; text-indent: -2em; }
 /*
 grid-template-columns: 100px 1fr 1fr minmax(40ch, 65ch) 1fr;
 */

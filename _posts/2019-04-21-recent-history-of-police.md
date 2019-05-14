@@ -263,6 +263,7 @@ Profile: Prison Abolitionist https://www.nytimes.com/2019/04/17/magazine/prison-
 China demonstrates both that surveillance data will be used to persecute people (Human Rights Watch 2019 https://www.hrw.org/video-photos/interactive/2019/05/02/china-how-mass-surveillance-works-xinjiang) but also that surveillance creates 
 troves of data waiting to be plundered: https://techcrunch.com/2019/05/03/china-smart-city-exposed/
 
+<section class="references">
 <h2>References</h2>
 Abad-Santos, A. (2018, July 20). Disney has fired Guardians of the Galaxy director James Gunn over old, gross tweets. Vox. Retrieved from <a href="https://www.vox.com/2018/7/20/17596506/disney-fired-james-gunn-guardians">https://www.vox.com/2018/7/20/17596506/disney-fired-james-gunn-guardians</a>
 
@@ -284,17 +285,17 @@ Dowell Jr., S. (2017). Policing in America: How DOD Helped Undermine Posse Comit
 
 Downs, K. (2016, October 21). FBI warned of white supremacists in law enforcement 10 years ago. Has anything changed? PBS News Hour. Retrieved from <a href="https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement">https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement</a>
 
-Dumke, M. (2018, April 19). Chicago's gang database is full of errors--and records we have prove it. ProPublica. Retrieved from https://www.propublica.org/article/politic-il-insider-chicago-gang-database
+Dumke, M. (2018, April 19). Chicago's gang database is full of errors--and records we have prove it. ProPublica. Retrieved from <a href="https://www.propublica.org/article/politic-il-insider-chicago-gang-database">https://www.propublica.org/article/politic-il-insider-chicago-gang-database</a>
 
-Early, E. (2019, April 16). What the Supreme Court ruling could mean for civil asset forfeiture. Southern Poverty Law Center. Retrieved from https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture
+Early, E. (2019, April 16). What the Supreme Court ruling could mean for civil asset forfeiture. Southern Poverty Law Center. Retrieved from <a href="https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture">https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture</a>
 
 {{ site.data.cards.foucault.discipline.fullcite }}
 
 Fox, J. (2019, April 28). Brown University student mistakenly identified as Sri Lanka bombing suspect. Boston Globe. Retrieved from <a href="https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html">https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html</a>
 
-Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse problem than the NFL does. The Atlantic. Retrieved from https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/
+Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse problem than the NFL does. The Atlantic. Retrieved from <a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/</a>
 
-Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf
+Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at <a href="http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf">http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf</a>
 
 Guardian Film. (2019, March 15). James Gunn reinstated as Guardians of the Galaxy 3 director after Disney firing. The Guardian. Retrieved from https://www.theguardian.com/film/2019/mar/15/james-gunn-guardians-of-the-galaxy-3
 
@@ -356,20 +357,21 @@ Speri, A. (2019, April 25). The largest gang raid in NYC history swept up dozens
 
 Stanford Open Policing Project. (n.d.). Available at https://openpolicing.stanford.edu/
 
-Stracqualursi, V. (2019, April 25). Florida House passes bill that would require ex-felons pay all fees before exercising voting rights. CNN. Retrieved from https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html
+Stracqualursi, V. (2019, April 25). Florida House passes bill that would require ex-felons pay all fees before exercising voting rights. CNN. Retrieved from <a href="https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html">https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html</a>
 
-St.Vincent, S. (2017, April 26). Broad warrantless surveillance threatens to undermine the criminal justice system. Just Security. Retrieved from https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/
+St.Vincent, S. (2017, April 26). Broad warrantless surveillance threatens to undermine the criminal justice system. Just Security. Retrieved from <a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/</a>
 
-Thomson, S. (2018, September 14). 'Predictive policing': Law enforcement revolution or just new spin on old biases? Depends who you ask. CBC. Retrieved from https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030
+Thomson, S. (2018, September 14). 'Predictive policing': Law enforcement revolution or just new spin on old biases? Depends who you ask. CBC. Retrieved from <a href="https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030">https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030</a>
 
-Turse, N. (2016, October 13). Pentagon video warns of "unavoidable" dystopian future for world's biggest cities. The Intercept. Retrieved from https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/
+Turse, N. (2016, October 13). Pentagon video warns of "unavoidable" dystopian future for world's biggest cities. The Intercept. Retrieved from <a href="https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/">https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/</a>
 
-Tuttle, C. (2018, June 12). Snapping back: Food stamp bans and criminal recidivism. Retrieved from https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435
+Tuttle, C. (2018, June 12). Snapping back: Food stamp bans and criminal recidivism. Retrieved from <a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435">https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435</a>
 
-Warzel, C. (2019, April 23). When license-plate surveillance goes horribly wrong. The New York Times. Retrieved from https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html
+Warzel, C. (2019, April 23). When license-plate surveillance goes horribly wrong. The New York Times. Retrieved from <a href="https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html">https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html</a>
 
-Whittaker, Z. (2019, May 4). Security lapse exposed a Chinese smart city surveillance system. TechCrunch. Retrieved from https://techcrunch.com/2019/05/03/china-smart-city-exposed/
+Whittaker, Z. (2019, May 4). Security lapse exposed a Chinese smart city surveillance system. TechCrunch. Retrieved from <a href="https://techcrunch.com/2019/05/03/china-smart-city-exposed/">https://techcrunch.com/2019/05/03/china-smart-city-exposed/</a>
 
-Winston, A. (2018, February 27). Palantir has been secretly using New Orleans to test its predictive policing technology. The Verge. Retrieved from https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd
+Winston, A. (2018, February 27). Palantir has been secretly using New Orleans to test its predictive policing technology. The Verge. Retrieved from <a href="https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd">https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd</a>
 
-Winston, A. &amp; Burrington, I. (2018, April 26). A pioneer in predictive policing is starting a troubling new project. The Verge. Retrieved from https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias
+Winston, A. &amp; Burrington, I. (2018, April 26). A pioneer in predictive policing is starting a troubling new project. The Verge. Retrieved from <a href="https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias">https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias</a>
+</section>
