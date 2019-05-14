@@ -265,113 +265,113 @@ troves of data waiting to be plundered: https://techcrunch.com/2019/05/03/china-
 
 <section class="references">
 <h2>References</h2>
-Abad-Santos, A. (2018, July 20). Disney has fired Guardians of the Galaxy director James Gunn over old, gross tweets. Vox. Retrieved from <a href="https://www.vox.com/2018/7/20/17596506/disney-fired-james-gunn-guardians">https://www.vox.com/2018/7/20/17596506/disney-fired-james-gunn-guardians</a>
+<p>Abad-Santos, A. (2018, July 20). Disney has fired Guardians of the Galaxy director James Gunn over old, gross tweets. Vox. Retrieved from <a href="https://www.vox.com/2018/7/20/17596506/disney-fired-james-gunn-guardians">https://www.vox.com/2018/7/20/17596506/disney-fired-james-gunn-guardians</a></p>
 
-Ball, P. (2016, March 4). Violence in blue. Granta. Retrieved from <a href="https://granta.com/violence-in-blue/">https://granta.com/violence-in-blue/</a>
+<p>Ball, P. (2016, March 4). Violence in blue. Granta. Retrieved from <a href="https://granta.com/violence-in-blue/">https://granta.com/violence-in-blue/</a></p>
 
-Barrett, D. (2019, January 3). Senate memo blasts U.S. Marshals Service for alleged misconduct, overspending. The Washington Post. Retrieved from <a href="https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html">https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html</a>
+<p>Barrett, D. (2019, January 3). Senate memo blasts U.S. Marshals Service for alleged misconduct, overspending. The Washington Post. Retrieved from <a href="https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html">https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html</a></p>
 
-Brayne, S. (2017). Big data surveillance: The case of policing. American Sociological Review 2017, Vol. 82(5) 977–1008. Retrieved from <a href="http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf">http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf</a>
+<p>Brayne, S. (2017). Big data surveillance: The case of policing. American Sociological Review 2017, Vol. 82(5) 977–1008. Retrieved from <a href="http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf">http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf</a></p>
 
-Chen, S. (2019, January 11). The Chinese technology helping New York police keep a closer eye on the United States’ biggest city. South China Morning Post. Retrieved from <a href="https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united">https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united</a>
+<p>Chen, S. (2019, January 11). The Chinese technology helping New York police keep a closer eye on the United States’ biggest city. South China Morning Post. Retrieved from <a href="https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united">https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united</a></p>
 
-Chesterton, G.K. (1908). The man who was Thursday: A nightmare. Public domain, Kindle edition.
+<p>Chesterton, G.K. (1908). The man who was Thursday: A nightmare. Public domain, Kindle edition.</p>
 
-Cole, D. (2014, May 10). 'We kill people based on metadata.' New York Review of Books. Retrieved from <a href="https://www.nybooks.com/daily/2014/05/10/we-kill-people-based-metadata/">https://www.nybooks.com/daily/2014/05/10/we-kill-people-based-metadata/</a>
+<p>Cole, D. (2014, May 10). 'We kill people based on metadata.' New York Review of Books. Retrieved from <a href="https://www.nybooks.com/daily/2014/05/10/we-kill-people-based-metadata/">https://www.nybooks.com/daily/2014/05/10/we-kill-people-based-metadata/</a></p>
 
-Corrigan, J. (2019, April 20). Say freeze? FBI's facial recognition accuracy unmeasured for three years, warns watchdog. Defense One. Retrieved from <a href="https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/">https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/</a>
+<p>Corrigan, J. (2019, April 20). Say freeze? FBI's facial recognition accuracy unmeasured for three years, warns watchdog. Defense One. Retrieved from <a href="https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/">https://www.defenseone.com/technology/2019/04/say-freeze-gao-says-fbis-facial-recognition-flawed/156436/</a></p>
 
-Dowell Jr., S. (2017). Policing in America: How DOD Helped Undermine Posse Comitatus. Joint Force Quarterly, National Defense University Press. Retrieved from <a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1130666/policing-in-america-how-dod-helped-undermine-posse-comitatus/">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1130666/policing-in-america-how-dod-helped-undermine-posse-comitatus/</a>
+<p>Dowell Jr., S. (2017). Policing in America: How DOD Helped Undermine Posse Comitatus. Joint Force Quarterly, National Defense University Press. Retrieved from <a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1130666/policing-in-america-how-dod-helped-undermine-posse-comitatus/">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1130666/policing-in-america-how-dod-helped-undermine-posse-comitatus/</a></p>
 
-Downs, K. (2016, October 21). FBI warned of white supremacists in law enforcement 10 years ago. Has anything changed? PBS News Hour. Retrieved from <a href="https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement">https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement</a>
+<p>Downs, K. (2016, October 21). FBI warned of white supremacists in law enforcement 10 years ago. Has anything changed? PBS News Hour. Retrieved from <a href="https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement">https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement</a></p>
 
-Dumke, M. (2018, April 19). Chicago's gang database is full of errors--and records we have prove it. ProPublica. Retrieved from <a href="https://www.propublica.org/article/politic-il-insider-chicago-gang-database">https://www.propublica.org/article/politic-il-insider-chicago-gang-database</a>
+<p>Dumke, M. (2018, April 19). Chicago's gang database is full of errors--and records we have prove it. ProPublica. Retrieved from <a href="https://www.propublica.org/article/politic-il-insider-chicago-gang-database">https://www.propublica.org/article/politic-il-insider-chicago-gang-database</a></p>
 
-Early, E. (2019, April 16). What the Supreme Court ruling could mean for civil asset forfeiture. Southern Poverty Law Center. Retrieved from <a href="https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture">https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture</a>
+<p>Early, E. (2019, April 16). What the Supreme Court ruling could mean for civil asset forfeiture. Southern Poverty Law Center. Retrieved from <a href="https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture">https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture</a></p>
 
-{{ site.data.cards.foucault.discipline.fullcite }}
+<p>{{ site.data.cards.foucault.discipline.fullcite }}</p>
 
-Fox, J. (2019, April 28). Brown University student mistakenly identified as Sri Lanka bombing suspect. Boston Globe. Retrieved from <a href="https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html">https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html</a>
+<p>Fox, J. (2019, April 28). Brown University student mistakenly identified as Sri Lanka bombing suspect. Boston Globe. Retrieved from <a href="https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html">https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html</a></p>
 
-Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse problem than the NFL does. The Atlantic. Retrieved from <a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/</a>
+<p>Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse problem than the NFL does. The Atlantic. Retrieved from <a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/</a></p>
 
-Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at <a href="http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf">http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf</a>
+<p>Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at <a href="http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf">http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf</a></p>
 
-Guardian Film. (2019, March 15). James Gunn reinstated as Guardians of the Galaxy 3 director after Disney firing. The Guardian. Retrieved from https://www.theguardian.com/film/2019/mar/15/james-gunn-guardians-of-the-galaxy-3
+<p>Guardian Film. (2019, March 15). James Gunn reinstated as Guardians of the Galaxy 3 director after Disney firing. The Guardian. Retrieved from https://www.theguardian.com/film/2019/mar/15/james-gunn-guardians-of-the-galaxy-3</p>
 
-Hall, M. (2018, February 11). In the US, white supremacists have infiltrated police and military to get weapons training. The Sydney Morning Herald. Retrieved from https://www.smh.com.au/world/north-america/in-the-us-white-supremacists-have-infiltrated-police-and-military-to-get-weapons-training-20180209-p4yzs5.html
+<p>Hall, M. (2018, February 11). In the US, white supremacists have infiltrated police and military to get weapons training. The Sydney Morning Herald. Retrieved from https://www.smh.com.au/world/north-america/in-the-us-white-supremacists-have-infiltrated-police-and-military-to-get-weapons-training-20180209-p4yzs5.html</p>
 
-Hoffman, A. L. (2018, April 30). Data violence and how bad engineering choices can damage society. Medium Featured Stories. Retrieved from https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4
+<p>Hoffman, A. L. (2018, April 30). Data violence and how bad engineering choices can damage society. Medium Featured Stories. Retrieved from https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4</p>
 
-Johansson, A. (2018, March 19). 5 lessons learned from the predictive policing failure in New Orleans. VentureBeat. Retrieved from https://venturebeat.com/2018/03/19/5-lessons-learned-from-the-predictive-policing-failure-in-new-orleans/
+<p>Johansson, A. (2018, March 19). 5 lessons learned from the predictive policing failure in New Orleans. VentureBeat. Retrieved from https://venturebeat.com/2018/03/19/5-lessons-learned-from-the-predictive-policing-failure-in-new-orleans/</p>
 
-Harwell, D. (2019, April 30). Oregon became a testing ground for Amazon’s facial-recognition policing. But what 
-if Rekognition gets it wrong? The Washington Post. Retrieved from <a href="https://www.washingtonpost.com/technology/2019/04/30/amazons-facial-recognition-technology-is-supercharging-local-police/">https://www.washingtonpost.com/technology/2019/04/30/amazons-facial-recognition-technology-is-supercharging-local-police/</a>
+<p>Harwell, D. (2019, April 30). Oregon became a testing ground for Amazon’s facial-recognition policing. But what 
+if Rekognition gets it wrong? The Washington Post. Retrieved from <a href="https://www.washingtonpost.com/technology/2019/04/30/amazons-facial-recognition-technology-is-supercharging-local-police/">https://www.washingtonpost.com/technology/2019/04/30/amazons-facial-recognition-technology-is-supercharging-local-police/</a></p>
 
-Ingraham, C. (2015, November 23). Law enforcement took more stuff from people than burglars did last year. The Washington Post. Retrieved from https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/
+<p>Ingraham, C. (2015, November 23). Law enforcement took more stuff from people than burglars did last year. The Washington Post. Retrieved from https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/</p>
 
-Ingraham, C. (2017, April 5). The IRS took millions from innocent people because of how they managed their bank accounts, inspector general finds. The Washington Post. Retrieved from https://www.washingtonpost.com/news/wonk/wp/2017/04/05/the-irs-took-millions-from-innocent-people-because-of-how-they-managed-their-bank-accounts-inspector-general-finds/
+<p>Ingraham, C. (2017, April 5). The IRS took millions from innocent people because of how they managed their bank accounts, inspector general finds. The Washington Post. Retrieved from https://www.washingtonpost.com/news/wonk/wp/2017/04/05/the-irs-took-millions-from-innocent-people-because-of-how-they-managed-their-bank-accounts-inspector-general-finds/</p>
 
-Kahn, J. (2019, April 26). Major tech firms come out against police use of AI algorithms. Bloomberg. Retrieved from <a href="https://www.bloomberg.com/news/articles/2019-04-26/major-tech-firms-come-out-against-police-use-of-ai-algorithms">https://www.bloomberg.com/news/articles/2019-04-26/major-tech-firms-come-out-against-police-use-of-ai-algorithms</a>
+<p>Kahn, J. (2019, April 26). Major tech firms come out against police use of AI algorithms. Bloomberg. Retrieved from <a href="https://www.bloomberg.com/news/articles/2019-04-26/major-tech-firms-come-out-against-police-use-of-ai-algorithms">https://www.bloomberg.com/news/articles/2019-04-26/major-tech-firms-come-out-against-police-use-of-ai-algorithms</a></p>
 
-Kiel, P. &amp; Eisinger. (2018, December 11). How the IRS was gutted. ProPublica. Retrieved from https://www.propublica.org/article/how-the-irs-was-gutted
+<p>Kiel, P. &amp; Eisinger. (2018, December 11). How the IRS was gutted. ProPublica. Retrieved from https://www.propublica.org/article/how-the-irs-was-gutted</p>
 
-Lennard, N. (2011, November 23). Robocops vs. the occupiers. Salon. Retrieved from https://www.salon.com/2011/11/23/robocops_vs_the_occupiers/
+<p>Lennard, N. (2011, November 23). Robocops vs. the occupiers. Salon. Retrieved from https://www.salon.com/2011/11/23/robocops_vs_the_occupiers/</p>
 
-Levin, S. (2018, February 9). California police worked with neo-Nazis to pursue 'anti-racist' activists, documents show. The Guardian. Retrieved from https://www.theguardian.com/world/2018/feb/09/california-police-white-supremacists-counter-protest
+<p>Levin, S. (2018, February 9). California police worked with neo-Nazis to pursue 'anti-racist' activists, documents show. The Guardian. Retrieved from https://www.theguardian.com/world/2018/feb/09/california-police-white-supremacists-counter-protest</p>
 
-Lockhart, P.R. (2019, April 25). Florida passed a historic expansion of voting rights. Now Republicans want to hobble it. Vox. Retrieved from https://www.vox.com/policy-and-politics/2019/3/25/18277470/amendment-4-florida-felon-voting-rights-fees-legislation
+<p>Lockhart, P.R. (2019, April 25). Florida passed a historic expansion of voting rights. Now Republicans want to hobble it. Vox. Retrieved from https://www.vox.com/policy-and-politics/2019/3/25/18277470/amendment-4-florida-felon-voting-rights-fees-legislation</p>
 
-Lynch, J. (2018, June 7). HART: Homeland Security’s Massive New Database Will Include Face Recognition, DNA, and Peoples’ “Non-Obvious Relationships”. Electronic Frontier Foundation. Retrieved from https://www.eff.org/deeplinks/2018/06/hart-homeland-securitys-massive-new-database-will-include-face-recognition-dna-and
+<p>Lynch, J. (2018, June 7). HART: Homeland Security’s Massive New Database Will Include Face Recognition, DNA, and Peoples’ “Non-Obvious Relationships”. Electronic Frontier Foundation. Retrieved from https://www.eff.org/deeplinks/2018/06/hart-homeland-securitys-massive-new-database-will-include-face-recognition-dna-and</p>
 
-McNeil, J. (2018, July). Big brother's blind spot. The Baffler. Retrieved from https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil
+<p>McNeil, J. (2018, July). Big brother's blind spot. The Baffler. Retrieved from https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil</p>
 
-Millman, Z. (2018, November 30). 19 years later: Looking back at the Battle in Seattle, the WTO riots. Seattle Post Intelligencer. Retrieved from https://www.seattlepi.com/local/seattle-history/article/WTO-Riots-Battle-Seattle-1999-anniversary-13431709.php
+<p>Millman, Z. (2018, November 30). 19 years later: Looking back at the Battle in Seattle, the WTO riots. Seattle Post Intelligencer. Retrieved from https://www.seattlepi.com/local/seattle-history/article/WTO-Riots-Battle-Seattle-1999-anniversary-13431709.php</p>
 
-Norton, Q. (2018, February 27). The New York Times fired my doppelganger. The Atlantic. Retrieved from https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/
+<p>Norton, Q. (2018, February 27). The New York Times fired my doppelganger. The Atlantic. Retrieved from https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/</p>
 
-Partnership on AI. (2019). Report on algorithmic risk assessment tools in the U.S. Criminal Justice system. Retrieved from <a href="https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/">https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/</a>
+<p>Partnership on AI. (2019). Report on algorithmic risk assessment tools in the U.S. Criminal Justice system. Retrieved from <a href="https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/">https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/</a></p>
 
-Patel, F., Levinson-Waldman, R., Lee, J.L., DenUyl, S. (2019, April 30). School surveillance zone. Brennan Center for Justice. Retrieved from <a href="https://www.brennancenter.org/analysis/school-surveillance-zone">https://www.brennancenter.org/analysis/school-surveillance-zone</a>
+<p>Patel, F., Levinson-Waldman, R., Lee, J.L., DenUyl, S. (2019, April 30). School surveillance zone. Brennan Center for Justice. Retrieved from <a href="https://www.brennancenter.org/analysis/school-surveillance-zone">https://www.brennancenter.org/analysis/school-surveillance-zone</a></p>
 
-Pierson, E., et al. (2019). A large-scale analysis of racial disparities in police
-stops across the United States. Retrieved from https://5harad.com/papers/100M-stops.pdf
+<p>Pierson, E., et al. (2019). A large-scale analysis of racial disparities in police
+stops across the United States. Retrieved from https://5harad.com/papers/100M-stops.pdf</p>
 
-Prison Policy Initiative. (n.d.). The problem. Retrieved from https://www.prisonersofthecensus.org/impact.html
+<p>Prison Policy Initiative. (n.d.). The problem. Retrieved from https://www.prisonersofthecensus.org/impact.html</p>
 
-Rayman, G. &amp; Guse, C. (2019, April 15). NYC spent $230M on NYPD settlements last year: report. Daily News. Retrived from https://www.nydailynews.com/new-york/ny-stringer-report-nypd-payout-settlement-lawsuits-20190415-2zzm2zkhpna63dtlcr2zks6eoq-story.html
+<p>Rayman, G. &amp; Guse, C. (2019, April 15). NYC spent $230M on NYPD settlements last year: report. Daily News. Retrived from https://www.nydailynews.com/new-york/ny-stringer-report-nypd-payout-settlement-lawsuits-20190415-2zzm2zkhpna63dtlcr2zks6eoq-story.html</p>
 
-Richardson, R., Schultz, J., & Crawford, K. (2019). Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice. Retrieved from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423
+<p>Richardson, R., Schultz, J., &amp; Crawford, K. (2019). Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice. Retrieved from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423</p>
 
-Robinson, S. (2018, July 6). When a Facebook Like lands you in jail. Brennan Center for Justice. Retrieved from https://www.brennancenter.org/blog/when-facebook-lands-you-jail
+<p>Robinson, S. (2018, July 6). When a Facebook Like lands you in jail. Brennan Center for Justice. Retrieved from https://www.brennancenter.org/blog/when-facebook-lands-you-jail</p>
 
-Samuel, S. (2019, April 27). The growing backlash against facial recognition tech. Vox. Retrieved from <a href="https://www.vox.com/future-perfect/2019/4/27/18518598/ai-facial-recognition-ban-apple-amazon-microsoft">https://www.vox.com/future-perfect/2019/4/27/18518598/ai-facial-recognition-ban-apple-amazon-microsoft</a>
+<p>Samuel, S. (2019, April 27). The growing backlash against facial recognition tech. Vox. Retrieved from <a href="https://www.vox.com/future-perfect/2019/4/27/18518598/ai-facial-recognition-ban-apple-amazon-microsoft">https://www.vox.com/future-perfect/2019/4/27/18518598/ai-facial-recognition-ban-apple-amazon-microsoft</a></p>
 
-Sexton, J. (2018, January 16). In New York, crime falls along with police stops. ProPublica. Retrieved from https://www.propublica.org/article/in-new-york-crime-falls-along-with-police-stops
+<p>Sexton, J. (2018, January 16). In New York, crime falls along with police stops. ProPublica. Retrieved from https://www.propublica.org/article/in-new-york-crime-falls-along-with-police-stops</p>
 
-Snow, J. (2018, July 26). Amazon's face recognition falsely matched 28 members of congress with mugshots. ACLU. Retrieved from https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28
+<p>Snow, J. (2018, July 26). Amazon's face recognition falsely matched 28 members of congress with mugshots. ACLU. Retrieved from https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28</p>
 
-Speri, A. (2017, January 31). The FBI has quietly investigated White Supremacist infiltration of law enforcement. The Intercept. Retrieved from <a href="https://theintercept.com/2017/01/31/the-fbi-has-quietly-investigated-white-supremacist-infiltration-of-law-enforcement/">https://theintercept.com/2017/01/31/the-fbi-has-quietly-investigated-white-supremacist-infiltration-of-law-enforcement/</a>
+<p>Speri, A. (2017, January 31). The FBI has quietly investigated White Supremacist infiltration of law enforcement. The Intercept. Retrieved from <a href="https://theintercept.com/2017/01/31/the-fbi-has-quietly-investigated-white-supremacist-infiltration-of-law-enforcement/">https://theintercept.com/2017/01/31/the-fbi-has-quietly-investigated-white-supremacist-infiltration-of-law-enforcement/</a></p>
 
-Speri, A. (2019, April 25). The largest gang raid in NYC history swept up dozens of young people who weren't in gangs. The Intercept. https://theintercept.com/2019/04/25/bronx-120-report-mass-gang-prosecution-rico/
+<p>Speri, A. (2019, April 25). The largest gang raid in NYC history swept up dozens of young people who weren't in gangs. The Intercept. https://theintercept.com/2019/04/25/bronx-120-report-mass-gang-prosecution-rico/</p>
 
-Stanford Open Policing Project. (n.d.). Available at https://openpolicing.stanford.edu/
+<p>Stanford Open Policing Project. (n.d.). Available at https://openpolicing.stanford.edu/</p>
 
-Stracqualursi, V. (2019, April 25). Florida House passes bill that would require ex-felons pay all fees before exercising voting rights. CNN. Retrieved from <a href="https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html">https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html</a>
+<p>Stracqualursi, V. (2019, April 25). Florida House passes bill that would require ex-felons pay all fees before exercising voting rights. CNN. Retrieved from <a href="https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html">https://www.cnn.com/2019/04/25/politics/florida-amendment-4-voting-rights-felons/index.html</a></p>
 
-St.Vincent, S. (2017, April 26). Broad warrantless surveillance threatens to undermine the criminal justice system. Just Security. Retrieved from <a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/</a>
+<p>St.Vincent, S. (2017, April 26). Broad warrantless surveillance threatens to undermine the criminal justice system. Just Security. Retrieved from <a href="https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/">https://www.justsecurity.org/40292/broad-warrantless-surveillance-threatens-undermine-criminal-justice-system/</a></p>
 
-Thomson, S. (2018, September 14). 'Predictive policing': Law enforcement revolution or just new spin on old biases? Depends who you ask. CBC. Retrieved from <a href="https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030">https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030</a>
+<p>Thomson, S. (2018, September 14). 'Predictive policing': Law enforcement revolution or just new spin on old biases? Depends who you ask. CBC. Retrieved from <a href="https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030">https://www.cbc.ca/news/world/crime-los-angeles-predictive-policing-algorithms-1.4826030</a></p>
 
-Turse, N. (2016, October 13). Pentagon video warns of "unavoidable" dystopian future for world's biggest cities. The Intercept. Retrieved from <a href="https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/">https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/</a>
+<p>Turse, N. (2016, October 13). Pentagon video warns of "unavoidable" dystopian future for world's biggest cities. The Intercept. Retrieved from <a href="https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/">https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/</a></p>
 
-Tuttle, C. (2018, June 12). Snapping back: Food stamp bans and criminal recidivism. Retrieved from <a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435">https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435</a>
+<p>Tuttle, C. (2018, June 12). Snapping back: Food stamp bans and criminal recidivism. Retrieved from <a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435">https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435</a></p>
 
-Warzel, C. (2019, April 23). When license-plate surveillance goes horribly wrong. The New York Times. Retrieved from <a href="https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html">https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html</a>
+<p>Warzel, C. (2019, April 23). When license-plate surveillance goes horribly wrong. The New York Times. Retrieved from <a href="https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html">https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html</a></p>
 
-Whittaker, Z. (2019, May 4). Security lapse exposed a Chinese smart city surveillance system. TechCrunch. Retrieved from <a href="https://techcrunch.com/2019/05/03/china-smart-city-exposed/">https://techcrunch.com/2019/05/03/china-smart-city-exposed/</a>
+<p>Whittaker, Z. (2019, May 4). Security lapse exposed a Chinese smart city surveillance system. TechCrunch. Retrieved from <a href="https://techcrunch.com/2019/05/03/china-smart-city-exposed/">https://techcrunch.com/2019/05/03/china-smart-city-exposed/</a></p>
 
-Winston, A. (2018, February 27). Palantir has been secretly using New Orleans to test its predictive policing technology. The Verge. Retrieved from <a href="https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd">https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd</a>
+<p>Winston, A. (2018, February 27). Palantir has been secretly using New Orleans to test its predictive policing technology. The Verge. Retrieved from <a href="https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd">https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd</a></p>
 
-Winston, A. &amp; Burrington, I. (2018, April 26). A pioneer in predictive policing is starting a troubling new project. The Verge. Retrieved from <a href="https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias">https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias</a>
+<p>Winston, A. &amp; Burrington, I. (2018, April 26). A pioneer in predictive policing is starting a troubling new project. The Verge. Retrieved from <a href="https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias">https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias</a></p>
 </section>
