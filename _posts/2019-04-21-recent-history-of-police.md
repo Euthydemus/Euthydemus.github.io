@@ -136,11 +136,15 @@ implemented none of them{% include /aside.html nid="corrigan2019" text='<a href=
 police in Oregon's Washington county from being enthusiastic early adopters of Amazon's 
 system{% include /aside.html nid="harwell2019" text='<a href="https://www.washingtonpost.com/technology/2019/04/30/amazons-facial-recognition-technology-is-supercharging-local-police/">Harwell, 2019</a>'%}. An increasing
 cadence of backlash is rising against misidentifications, predominantly targeting the vendors rather
-than the politically-protected enforcers{% include /aside.html nid="samueletc2019" text='<a href="https://www.vox.com/future-perfect/2019/4/27/18518598/ai-facial-recognition-ban-apple-amazon-microsoft">Samuel, 2019</a>; <a href="https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html">Fox, 2019</a>' %}.
+than the politically-protected enforcers{% include /aside.html nid="samueletc2019" text='<a href="https://www.vox.com/future-perfect/2019/4/27/18518598/ai-facial-recognition-ban-apple-amazon-microsoft">Samuel, 2019</a>; <a href="https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html">Fox, 2019</a>' %}
+despite police feeding intentionally wrong images to the system in an attempt to produce similar-looking suspects
+{% include /aside.html nid="Bramdom2019" text='<a href="https://www.theverge.com/2019/5/16/18627548/nypd-facial-recognition-altered-faces-privacy">Brandom, 2019</a>' %}.
 Ironically, while several technology companies are beginning to demur on the deployment of algorithmically-driven
 criminal justice, their focus is on the systems that try "to predict how likely a defendant or prisoner is 
 to re-offend if released"{% include /aside.html nid="kahn2019" text='<a href="https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/">Partnership on AI, 2019</a>; <a href="https://www.bloomberg.com/news/articles/2019-04-26/major-tech-firms-come-out-against-police-use-of-ai-algorithms">Kahn, 2019</a>' %} and not the systems that
-they're already actively selling to law enforcement agencies.
+they're already actively selling to law enforcement agencies. While Congress has begun signaling discomfort with
+facial recognition capabilities{% include /aside.html nid="kelly2019" text='<a href="https://www.flawedfacedata.com/">Garvie, 2019</a>; <a href="https://www.theverge.com/2019/5/22/18635848/facial-recognition-tech-regulation-house-oversight-committee-republicans-democrats">Kelly, 2019</a>'%}, it seems unlikely that they will be willing to move against commercial and state
+interests that are becoming more entrenched as time goes on.
 
 Stepping back from facial recognition to the relatively tame license plate recognition doesn't solve
 for all of the harms because they are still subject to the "pitfalls of automated policing, where one 
@@ -224,6 +228,11 @@ underrating their capacity to resist it, will attempt to conform their behavior 
 confrontation. But the cost/benefit analysis of such a confrontation is highly variable resulting in
 uneven reactions of power across a population.
 
+<h2>Network Association and Approximation</h2>
+A crucial weakness in surveillance of a social network is inferred relationships that may not performative,
+relevant, or even legal for the government to pursue off the social network. In particular, the DHS consumes
+social media to find "the identity of family and friends"{% include /aside.html nid="lau2019" text='<a href="https://www.brennancenter.org/blog/government-expanding-its-social-media-surveillance-capabilities">Lau, 2019</a>'%}.
+
 
 <h2>For-profit policing</h2>
 In many ways, the worst part of this is that these technologies are going to be intentionally oppressive
@@ -271,6 +280,8 @@ troves of data waiting to be plundered: https://techcrunch.com/2019/05/03/china-
 
 <p>Barrett, D. (2019, January 3). Senate memo blasts U.S. Marshals Service for alleged misconduct, overspending. The Washington Post. Retrieved from <a href="https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html">https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html</a></p>
 
+<p>Brandom, R. (2019, May 16). The NYPD uses altered images in its facial recognition system, new documents show. The Verge. Retrieved from <a href="https://www.theverge.com/2019/5/16/18627548/nypd-facial-recognition-altered-faces-privacy">https://www.theverge.com/2019/5/16/18627548/nypd-facial-recognition-altered-faces-privacy</a></p>
+
 <p>Brayne, S. (2017). Big data surveillance: The case of policing. American Sociological Review 2017, Vol. 82(5) 977–1008. Retrieved from <a href="http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf">http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf</a></p>
 
 <p>Chen, S. (2019, January 11). The Chinese technology helping New York police keep a closer eye on the United States’ biggest city. South China Morning Post. Retrieved from <a href="https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united">https://www.scmp.com/news/china/science/article/2181749/chinese-technology-helping-new-york-police-keep-closer-eye-united</a></p>
@@ -295,6 +306,8 @@ troves of data waiting to be plundered: https://techcrunch.com/2019/05/03/china-
 
 <p>Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse problem than the NFL does. The Atlantic. Retrieved from <a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/</a></p>
 
+<p>Garvie, C. (2019, May 16). Garbage in, garbage out: Face recognition on flawed data. Georgetown Law Center on Privacy &amp; Technology. Retrieved from <a href="https://www.flawedfacedata.com/">https://www.flawedfacedata.com/</a></p>
+
 <p>Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at <a href="http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf">http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf</a></p>
 
 <p>Guardian Film. (2019, March 15). James Gunn reinstated as Guardians of the Galaxy 3 director after Disney firing. The Guardian. Retrieved from https://www.theguardian.com/film/2019/mar/15/james-gunn-guardians-of-the-galaxy-3</p>
@@ -314,7 +327,11 @@ if Rekognition gets it wrong? The Washington Post. Retrieved from <a href="https
 
 <p>Kahn, J. (2019, April 26). Major tech firms come out against police use of AI algorithms. Bloomberg. Retrieved from <a href="https://www.bloomberg.com/news/articles/2019-04-26/major-tech-firms-come-out-against-police-use-of-ai-algorithms">https://www.bloomberg.com/news/articles/2019-04-26/major-tech-firms-come-out-against-police-use-of-ai-algorithms</a></p>
 
+<p>Kelly, M. (2019, May 22). Republicans and Democrats agree: it's time to regulate facial recognition tech. The Verge. Retrieved from <a href="https://www.theverge.com/2019/5/22/18635848/facial-recognition-tech-regulation-house-oversight-committee-republicans-democrats">https://www.theverge.com/2019/5/22/18635848/facial-recognition-tech-regulation-house-oversight-committee-republicans-democrats</a></p>
+
 <p>Kiel, P. &amp; Eisinger. (2018, December 11). How the IRS was gutted. ProPublica. Retrieved from https://www.propublica.org/article/how-the-irs-was-gutted</p>
+
+<p>Lau, T. (2019, May 22). The government is expanding its social media surveillance capabilities. Brennan Center for Justice. Retrieved from <a href="https://www.brennancenter.org/blog/government-expanding-its-social-media-surveillance-capabilities">https://www.brennancenter.org/blog/government-expanding-its-social-media-surveillance-capabilities</a>
 
 <p>Lennard, N. (2011, November 23). Robocops vs. the occupiers. Salon. Retrieved from https://www.salon.com/2011/11/23/robocops_vs_the_occupiers/</p>
 
