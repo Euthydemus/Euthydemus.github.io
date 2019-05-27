@@ -17,7 +17,9 @@ thousand, put the city on lockdown and unleashed an arsenal of crowd control wea
 overwhelmingly peaceful gatherings.</p>
 <footer><a href="https://www.salon.com/2003/12/17/miami_police/">Goldberg, 2003</a></footer>
 </blockquote>
-The hyper-proactivity of the police was following on the 1999 Seattle riots{% include /aside.html nid="millman18" text='<a href="https://www.seattlepi.com/local/seattle-history/article/WTO-Riots-Battle-Seattle-1999-anniversary-13431709.php">Millman, 2018</a>'%}. I declined
+This was a systemic shift from prior instances of police violence, such as the 1985 bombing of a West
+Philadelphia neighborhood{% include /aside.html nid="osder2014" text='<a href="http://www.pbs.org/independentlens/films/let-the-fire-burn/">Osder, 2014</a>'%}. The normalization hyper-proactivity of the police was following on the 1999 Seattle 
+riots{% include /aside.html nid="millman18" text='<a href="https://www.seattlepi.com/local/seattle-history/article/WTO-Riots-Battle-Seattle-1999-anniversary-13431709.php">Millman, 2018</a>'%}. I declined
 an invitation to that event while I was in college. I also lost a debate to Brenna Bell,
 cited by Goldberg in Miami, in my most-successful college tournament. I have been on the edge
 of this circle multiple times in my life. Natasha Lennard{% include /aside.html nid="lennard11" text='<a 
@@ -26,11 +28,12 @@ looked at how this grew into a reflexive repression of political and economic pr
 former Seattle Police Chief Stamper despairing that "The message doesn't seem to go through: 
 Militarized tactics exacerbate situations."
 
-<h2>Police facilitate and exacerbate politicized and racist violence</h2> 
+<h2>Police facilitate and exacerbate politicized and racist violence</h2>
 
 A particularly problematic aspect of police being ideologically arrayed against "anarchists"
 is that they end up playing well with Nazis in Sacramento{% include /aside.html nid="levin18" text='<a href="https://www.theguardian.com/world/2018/feb/09/california-police-white-supremacists-counter-protest">Levin, 2018</a>' %} and right-wing
-extremists in Portland{% include /aside.html nid="fortin19" text='<a href="https://www.nytimes.com/2019/02/17/us/portland-police-patriot-prayer-texts.html">Fortin, 2019</a>'%}. We are well aware that 
+extremists in Portland{% include /aside.html nid="fortin19" text='<a href="https://www.nytimes.com/2019/02/17/us/portland-police-patriot-prayer-texts.html">Fortin, 2019</a>'%} despite an ongoing rise in domestic
+terror threats{% include /aside.html nid="perez2019" text='<a href="https://www.cnn.com/2019/05/23/politics/fbi-white-supremacist-domestic-terror/index.html">Perez, 2019</a>'%}. We are well aware that 
 "Law enforcement, the military, and politics in the United 
 States have been infiltrated by white supremacists, who use it to recruit others and gain 
 paramilitary training"{% include /aside.html nid="hall18" text='<a href="https://www.smh.com.au/world/north-america/in-the-us-white-supremacists-have-infiltrated-police-and-military-to-get-weapons-training-20180209-p4yzs5.html">Hall,
@@ -144,7 +147,7 @@ criminal justice, their focus is on the systems that try "to predict how likely 
 to re-offend if released"{% include /aside.html nid="kahn2019" text='<a href="https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/">Partnership on AI, 2019</a>; <a href="https://www.bloomberg.com/news/articles/2019-04-26/major-tech-firms-come-out-against-police-use-of-ai-algorithms">Kahn, 2019</a>' %} and not the systems that
 they're already actively selling to law enforcement agencies. While Congress has begun signaling discomfort with
 facial recognition capabilities{% include /aside.html nid="kelly2019" text='<a href="https://www.flawedfacedata.com/">Garvie, 2019</a>; <a href="https://www.theverge.com/2019/5/22/18635848/facial-recognition-tech-regulation-house-oversight-committee-republicans-democrats">Kelly, 2019</a>'%}, it seems unlikely that they will be willing to move against commercial and state
-interests that are becoming more entrenched as time goes on.
+interests that are becoming more entrenched as time goes on.{% include /aside.html nid="garviemoy2019" text='<a href="https://www.americaunderwatch.com/">Garvie &amp; Moy, 2019</a>'%}
 
 Stepping back from facial recognition to the relatively tame license plate recognition doesn't solve
 for all of the harms because they are still subject to the "pitfalls of automated policing, where one 
@@ -231,7 +234,14 @@ uneven reactions of power across a population.
 <h2>Network Association and Approximation</h2>
 A crucial weakness in surveillance of a social network is inferred relationships that may not performative,
 relevant, or even legal for the government to pursue off the social network. In particular, the DHS consumes
-social media to find "the identity of family and friends"{% include /aside.html nid="lau2019" text='<a href="https://www.brennancenter.org/blog/government-expanding-its-social-media-surveillance-capabilities">Lau, 2019</a>'%}.
+social media to find "the identity of family and friends"{% include /aside.html nid="lau2019" text='<a href="https://www.brennancenter.org/blog/government-expanding-its-social-media-surveillance-capabilities">Lau, 2019</a>'%} possibly inclusive
+of the family and friends who aren't actually engaging on social media but instead exist as non-user shadow
+profiles generated by corporate surveillance.{% include /aside.html nid="vermont2019" text='<a href="https://techxplore.com/news/2019-01-facebook-twitter-privacy-riskeven-dont.html">University of Vermont, 2019</a>'%}. This is particularly
+relevant for a deportation-oriented DHS operation "directly target[s] the parents and other family members of 
+children apprehended at the border — all with the help of Palantir’s case management app."{% include /aside.html nid="biddle2019" text='<a href="https://theintercept.com/2019/05/02/peter-thiels-palantir-was-used-to-bust-hundreds-of-relatives-of-migrant-children-new-documents-show/">Biddle &amp; Devereaux, 2019</a>'%}
+
+In a similar vein, police have been pulling data from consumer genetic testing services to find criminals
+even though consumer genetic testing services are not particularly reliable{% include /aside.html nid="estreich2019" text='<a href="https://aeon.co/ideas/like-the-emperors-new-clothes-dna-kits-are-a-tailored-illusion">Estreich, 2019</a>'%}.
 
 
 <h2>For-profit policing</h2>
@@ -280,6 +290,8 @@ troves of data waiting to be plundered: https://techcrunch.com/2019/05/03/china-
 
 <p>Barrett, D. (2019, January 3). Senate memo blasts U.S. Marshals Service for alleged misconduct, overspending. The Washington Post. Retrieved from <a href="https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html">https://www.washingtonpost.com/world/national-security/senate-memo-blasts-us-marshals-service-for-alleged-misconduct-overspending/2019/01/03/d322ee7c-0f9a-11e9-831f-3aa2c2be4cbd_story.html</a></p>
 
+<p>Biddle, S. &amp; Devereaux, R. (2019, May 2). Peter Thiel's Palantir was used to bust relatives of migrant children, new documents show. The Intercept. Retrieved from <a href="https://theintercept.com/2019/05/02/peter-thiels-palantir-was-used-to-bust-hundreds-of-relatives-of-migrant-children-new-documents-show/">https://theintercept.com/2019/05/02/peter-thiels-palantir-was-used-to-bust-hundreds-of-relatives-of-migrant-children-new-documents-show/</a></p>
+
 <p>Brandom, R. (2019, May 16). The NYPD uses altered images in its facial recognition system, new documents show. The Verge. Retrieved from <a href="https://www.theverge.com/2019/5/16/18627548/nypd-facial-recognition-altered-faces-privacy">https://www.theverge.com/2019/5/16/18627548/nypd-facial-recognition-altered-faces-privacy</a></p>
 
 <p>Brayne, S. (2017). Big data surveillance: The case of policing. American Sociological Review 2017, Vol. 82(5) 977–1008. Retrieved from <a href="http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf">http://www.asanet.org/sites/default/files/attach/journals/oct17asrfeature.pdf</a></p>
@@ -300,6 +312,8 @@ troves of data waiting to be plundered: https://techcrunch.com/2019/05/03/china-
 
 <p>Early, E. (2019, April 16). What the Supreme Court ruling could mean for civil asset forfeiture. Southern Poverty Law Center. Retrieved from <a href="https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture">https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture</a></p>
 
+<p>Estreich, G. (2019, May 13). Like the emperor's new clothes, DNA kits are a tailored illusion. Aeon. Retrieved from <a href="https://aeon.co/ideas/like-the-emperors-new-clothes-dna-kits-are-a-tailored-illusion">https://aeon.co/ideas/like-the-emperors-new-clothes-dna-kits-are-a-tailored-illusion</a></p>
+
 <p>{{ site.data.cards.foucault.discipline.fullcite }}</p>
 
 <p>Fox, J. (2019, April 28). Brown University student mistakenly identified as Sri Lanka bombing suspect. Boston Globe. Retrieved from <a href="https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html">https://www.bostonglobe.com/metro/2019/04/28/brown-student-mistaken-identified-sri-lanka-bombings-suspect/0hP2YwyYi4qrCEdxKZCpZM/story.html</a></p>
@@ -307,6 +321,8 @@ troves of data waiting to be plundered: https://techcrunch.com/2019/05/03/china-
 <p>Friedersdorf, C. (2014, September 19). Police have a much bigger domestic-abuse problem than the NFL does. The Atlantic. Retrieved from <a href="https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/">https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/</a></p>
 
 <p>Garvie, C. (2019, May 16). Garbage in, garbage out: Face recognition on flawed data. Georgetown Law Center on Privacy &amp; Technology. Retrieved from <a href="https://www.flawedfacedata.com/">https://www.flawedfacedata.com/</a></p>
+
+<p>Garvie, C. &amp; Moy, L. (2019). America under watch: Face surveillance in the United States. Georgetown Law Center on Privacy &amp; Technology. Retrieved from <a href="https://www.americaunderwatch.com/">https://www.americaunderwatch.com/</a></p>
 
 <p>Gladwell, M. (2006, February 13). Million-dollar Murray. The New Yorker, Vol. 82(1). Copy online at <a href="http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf">http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf</a></p>
 
@@ -347,9 +363,13 @@ if Rekognition gets it wrong? The Washington Post. Retrieved from <a href="https
 
 <p>Norton, Q. (2018, February 27). The New York Times fired my doppelganger. The Atlantic. Retrieved from https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/</p>
 
+<p>Osder, J. (2014, May 12). Let the fire burn. PBS. Retrieved from <a href="http://www.pbs.org/independentlens/films/let-the-fire-burn/">http://www.pbs.org/independentlens/films/let-the-fire-burn/</a></p>
+
 <p>Partnership on AI. (2019). Report on algorithmic risk assessment tools in the U.S. Criminal Justice system. Retrieved from <a href="https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/">https://www.partnershiponai.org/report-on-machine-learning-in-risk-assessment-tools-in-the-u-s-criminal-justice-system/</a></p>
 
 <p>Patel, F., Levinson-Waldman, R., Lee, J.L., DenUyl, S. (2019, April 30). School surveillance zone. Brennan Center for Justice. Retrieved from <a href="https://www.brennancenter.org/analysis/school-surveillance-zone">https://www.brennancenter.org/analysis/school-surveillance-zone</a></p>
+
+<p>Perez, E. (2019, May 23). FBI has seen a significant rise in white supremacist domestic terrorism in recent months. CNN. Retrieved from <a href="https://www.cnn.com/2019/05/23/politics/fbi-white-supremacist-domestic-terror/index.html">https://www.cnn.com/2019/05/23/politics/fbi-white-supremacist-domestic-terror/index.html</a></p>
 
 <p>Pierson, E., et al. (2019). A large-scale analysis of racial disparities in police
 stops across the United States. Retrieved from https://5harad.com/papers/100M-stops.pdf</p>
@@ -383,6 +403,8 @@ stops across the United States. Retrieved from https://5harad.com/papers/100M-st
 <p>Turse, N. (2016, October 13). Pentagon video warns of "unavoidable" dystopian future for world's biggest cities. The Intercept. Retrieved from <a href="https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/">https://theintercept.com/2016/10/13/pentagon-video-warns-of-unavoidable-dystopian-future-for-worlds-biggest-cities/</a></p>
 
 <p>Tuttle, C. (2018, June 12). Snapping back: Food stamp bans and criminal recidivism. Retrieved from <a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435">https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2845435</a></p>
+
+<p>University of Vermont. (2019, January 21). Study: On Facebook and Twitter your privacy is at risk--even if you don't have an account. TechXplore. Retrieved from <a href="https://techxplore.com/news/2019-01-facebook-twitter-privacy-riskeven-dont.html">https://techxplore.com/news/2019-01-facebook-twitter-privacy-riskeven-dont.html</a></p>
 
 <p>Warzel, C. (2019, April 23). When license-plate surveillance goes horribly wrong. The New York Times. Retrieved from <a href="https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html">https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html</a></p>
 
